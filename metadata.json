@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Cycle Signal Tracker",
+  "description": "A real-time Bitcoin market cycle tracker that analyzes key indicators using Gemini and Google Search to determine Risk-On/Risk-Off phases based on weighted scoring.",
+  "requestFramePermissions": []
+}

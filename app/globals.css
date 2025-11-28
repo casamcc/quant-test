@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Notion-like Light Mode adjustments */
+body {
+  background-color: #ffffff;
+  color: #171717;
+}
+
+/* Sleeker scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e5e5e5;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #d4d4d4;
+}
+
+/* Utility for Notion-style focus rings */
+.focus-ring:focus-within {
+  box-shadow: 0 0 0 2px rgba(35, 131, 226, 0.5);
+}
+
+/* Hide scrollbar for elements with no-scrollbar class */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
