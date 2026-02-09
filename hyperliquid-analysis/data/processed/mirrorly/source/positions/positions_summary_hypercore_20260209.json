@@ -1,0 +1,4241 @@
+{
+  "fetched_at": "2026-02-09T05:08:58.201401",
+  "fetch_date": "20260209",
+  "total_users_queried": 66,
+  "users_with_positions": 46,
+  "total_positions": 171,
+  "errors": 0,
+  "markets": "HyperCore only",
+  "builder": "mirrorly",
+  "users": [
+    {
+      "address": "0x4Cb5f4d145cd16460932bBb9B871bB6Fd5dB97E3",
+      "fetched_at": "2026-02-09T05:08:58.201401",
+      "has_positions": true,
+      "num_positions": 14,
+      "account_summary": {
+        "account_value": 2044827.919158,
+        "total_margin_used": 616851.975823,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "kPEPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 11770244.0,
+          "entry_price": 0.004227,
+          "liquidation_price": null,
+          "position_value": 44856.399884,
+          "unrealized_pnl": -4902.3978,
+          "pnl_percent": -10.929093312610348,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 4485.639988,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "JUP",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 373266.0,
+          "entry_price": 0.186102,
+          "liquidation_price": null,
+          "position_value": 59640.44148,
+          "unrealized_pnl": -9825.15006,
+          "pnl_percent": -16.47397272083372,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 5964.044148,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "JTO",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 183224.0,
+          "entry_price": 0.269091,
+          "liquidation_price": null,
+          "position_value": 46579.20528,
+          "unrealized_pnl": -2724.90724,
+          "pnl_percent": -5.850050947885128,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 9315.841056,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ZK",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 4235179.0,
+          "entry_price": 0.02344,
+          "liquidation_price": null,
+          "position_value": 89544.389597,
+          "unrealized_pnl": -9730.954642,
+          "pnl_percent": -10.867185186916519,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 17908.877919,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 31605.52,
+          "entry_price": 33.3914,
+          "liquidation_price": null,
+          "position_value": 1031288.1176,
+          "unrealized_pnl": -24066.49638,
+          "pnl_percent": -2.333634604072355,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 343762.705866,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "VIRTUAL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 74879.4,
+          "entry_price": 0.67024,
+          "liquidation_price": null,
+          "position_value": 43524.400044,
+          "unrealized_pnl": -6663.470645,
+          "pnl_percent": -15.309735776400633,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 8704.880008,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "VVV",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 63816.02,
+          "entry_price": 2.0741,
+          "liquidation_price": null,
+          "position_value": 118321.282682,
+          "unrealized_pnl": -14042.603458,
+          "pnl_percent": -11.868197453319421,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 39440.42756,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "BERA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 105585.4,
+          "entry_price": 0.48096,
+          "liquidation_price": null,
+          "position_value": 49314.716924,
+          "unrealized_pnl": -1468.641739,
+          "pnl_percent": -2.9781003128606742,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 9862.943384,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "PAXG",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 102.211,
+          "entry_price": 4914.141,
+          "liquidation_price": null,
+          "position_value": 513446.7374,
+          "unrealized_pnl": 11167.4248,
+          "pnl_percent": 2.174991870928967,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 51344.67374,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ZORA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1881325.0,
+          "entry_price": 0.026692,
+          "liquidation_price": null,
+          "position_value": 40373.2345,
+          "unrealized_pnl": -9844.255317,
+          "pnl_percent": -24.38312272701361,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 13457.744833,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "RESOLV",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 680225.0,
+          "entry_price": 0.068031,
+          "liquidation_price": null,
+          "position_value": 45762.136875,
+          "unrealized_pnl": -514.651596,
+          "pnl_percent": -1.1246231735326937,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 15254.045625,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "SKY",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 3158958.0,
+          "entry_price": 0.064217,
+          "liquidation_price": null,
+          "position_value": 211214.249796,
+          "unrealized_pnl": 8354.25749,
+          "pnl_percent": 3.955347472090027,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 70404.749932,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "AVNT",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 329636.0,
+          "entry_price": 0.212991,
+          "liquidation_price": null,
+          "position_value": 64193.31464,
+          "unrealized_pnl": -6016.21842,
+          "pnl_percent": -9.372032669973997,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 12838.662928,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "XMR",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 213.907,
+          "entry_price": 330.037,
+          "liquidation_price": null,
+          "position_value": 70533.69418,
+          "unrealized_pnl": -63.7383,
+          "pnl_percent": -0.09036574752109489,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 14106.738836,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
+      "fetched_at": "2026-02-09T05:08:58.202056",
+      "has_positions": true,
+      "num_positions": 5,
+      "account_summary": {
+        "account_value": 40690548.878257,
+        "total_margin_used": 14409979.697179,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 607.94509,
+          "entry_price": 70073.9,
+          "liquidation_price": 128220.3444151896,
+          "position_value": 43059534.83452,
+          "unrealized_pnl": -458390.83713,
+          "pnl_percent": -1.0645512983166667,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 2152976.741726,
+          "distance_to_liq_pct": 81.03,
+          "distance_to_liq_usd": 57392.34,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 4869.5847,
+          "entry_price": 2056.71,
+          "liquidation_price": 9196.2832520573,
+          "position_value": 10147240.59786,
+          "unrealized_pnl": -131879.23575,
+          "pnl_percent": -1.2996561427528646,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 507362.029893,
+          "distance_to_liq_pct": 341.32,
+          "distance_to_liq_usd": 7112.48,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1478841.8,
+          "entry_price": 24.3675,
+          "liquidation_price": 6.4784771896,
+          "position_value": 48254607.934,
+          "unrealized_pnl": 12218871.723848,
+          "pnl_percent": 25.321668224017696,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 9650921.5868,
+          "distance_to_liq_pct": 80.15,
+          "distance_to_liq_usd": 26.15,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "PAXG",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1576.357,
+          "entry_price": 5047.897,
+          "liquidation_price": null,
+          "position_value": 7918671.7538,
+          "unrealized_pnl": -38616.4334,
+          "pnl_percent": -0.48766301471542634,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 1583734.35076,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "LIT",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 947244.0,
+          "entry_price": 1.519895,
+          "liquidation_price": 35.5356140129,
+          "position_value": 1544954.964,
+          "unrealized_pnl": -105242.8195,
+          "pnl_percent": -6.812031544758996,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 514984.988,
+          "distance_to_liq_pct": 2078.76,
+          "distance_to_liq_usd": 33.9,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x3C363e96D22C056d748F199Fb728Fc80d70e461a",
+      "fetched_at": "2026-02-09T05:08:58.201620",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 24099.225192,
+        "total_margin_used": 19043.64,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "XRP",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 132000.0,
+          "entry_price": 1.325806,
+          "liquidation_price": 1.5856291588,
+          "position_value": 190436.4,
+          "unrealized_pnl": -15429.8768,
+          "pnl_percent": -8.102377906744719,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 19043.64,
+          "distance_to_liq_pct": 9.91,
+          "distance_to_liq_usd": 0.14,
+          "risk_level": "MODERATE"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xcb58B8f5EC6D47985f0728465C25a08EF9Ad2C7B",
+      "fetched_at": "2026-02-09T05:08:58.201975",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 1200879.138878,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x5AaDB434293B4E1B8Fb2e84007e567506fe65a96",
+      "fetched_at": "2026-02-09T05:08:58.201769",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 99798.645407,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x469E9A7f624b04C24f0E64EDF8d8a277e6bf58A5",
+      "fetched_at": "2026-02-09T05:08:58.201527",
+      "has_positions": true,
+      "num_positions": 6,
+      "account_summary": {
+        "account_value": 3225281.987493,
+        "total_margin_used": 1884858.542033,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 255.5,
+          "entry_price": 74390.6,
+          "liquidation_price": 61242.1222364607,
+          "position_value": 18096554.0,
+          "unrealized_pnl": -910253.207429,
+          "pnl_percent": -5.029980887129119,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 723862.16,
+          "distance_to_liq_pct": 13.53,
+          "distance_to_liq_usd": 9585.88,
+          "risk_level": "MODERATE"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 3503.5018,
+          "entry_price": 1849.74,
+          "liquidation_price": 2760.5953695828,
+          "position_value": 7300597.05084,
+          "unrealized_pnl": -820014.98093,
+          "pnl_percent": -11.232163276778163,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 292023.882033,
+          "distance_to_liq_pct": 32.48,
+          "distance_to_liq_usd": 676.8,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "SOL",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 40000.0,
+          "entry_price": 80.7059,
+          "liquidation_price": 146.0446797921,
+          "position_value": 3482200.0,
+          "unrealized_pnl": -253963.20908,
+          "pnl_percent": -7.293182731606455,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 174110.0,
+          "distance_to_liq_pct": 67.76,
+          "distance_to_liq_usd": 58.99,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "XRP",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 2500000.0,
+          "entry_price": 1.467432,
+          "liquidation_price": 2.3865348767,
+          "position_value": 3606750.0,
+          "unrealized_pnl": 61830.128504,
+          "pnl_percent": 1.714289277160879,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 180337.5,
+          "distance_to_liq_pct": 65.42,
+          "distance_to_liq_usd": 0.94,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 125000.0,
+          "entry_price": 32.3974,
+          "liquidation_price": 51.0572523541,
+          "position_value": 4078750.0,
+          "unrealized_pnl": -29070.38361,
+          "pnl_percent": -0.7127277624272143,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 407875.0,
+          "distance_to_liq_pct": 56.47,
+          "distance_to_liq_usd": 18.43,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "PUMP",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 500000000.0,
+          "entry_price": 0.002355,
+          "liquidation_price": null,
+          "position_value": 1066500.0,
+          "unrealized_pnl": -111000.0,
+          "pnl_percent": -10.40787623066104,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 106650.0,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x833b99b27dAC651d02080F5e220e929Df891dB06",
+      "fetched_at": "2026-02-09T05:08:58.201692",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 315612.396733,
+        "total_margin_used": 70256.686,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 34.41841,
+          "entry_price": 71040.1,
+          "liquidation_price": 78876.6369834639,
+          "position_value": 2437787.14348,
+          "unrealized_pnl": 7302.50532,
+          "pnl_percent": 0.29955467357069976,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 60944.678587,
+          "distance_to_liq_pct": 11.36,
+          "distance_to_liq_usd": 8048.64,
+          "risk_level": "MODERATE"
+        },
+        {
+          "coin": "BSV",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1963.04,
+          "entry_price": 13.9326,
+          "liquidation_price": null,
+          "position_value": 27936.02224,
+          "unrealized_pnl": 585.7488,
+          "pnl_percent": 2.096750908084901,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 9312.007413,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x020cA66C30beC2c4Fe3861a94E4DB4A498A35872",
+      "fetched_at": "2026-02-09T05:08:58.202193",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 465122.901748,
+        "total_margin_used": 383419.2,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 4600.0,
+          "entry_price": 2068.66,
+          "liquidation_price": 2023.1493119459,
+          "position_value": 9585480.0,
+          "unrealized_pnl": 69611.731672,
+          "pnl_percent": 0.7262206135947287,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 383419.2,
+          "distance_to_liq_pct": 2.91,
+          "distance_to_liq_usd": 60.65,
+          "risk_level": "CRITICAL"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xF967239DeBeF10DbC78E9Bbbb2d8A16B72a614eb",
+      "fetched_at": "2026-02-09T05:08:58.202120",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 3167478.70035,
+        "total_margin_used": 446440.439927,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 10.0,
+          "entry_price": 70484.1,
+          "liquidation_price": 92106.4254979753,
+          "position_value": 708280.0,
+          "unrealized_pnl": -3438.63621,
+          "pnl_percent": -0.48549107838707856,
+          "leverage": {
+            "type": "isolated",
+            "value": 25,
+            "rawUsd": "932577.558167"
+          },
+          "margin_used": 224297.558167,
+          "distance_to_liq_pct": 30.04,
+          "distance_to_liq_usd": 21278.43,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 375.0,
+          "entry_price": 2061.2,
+          "liquidation_price": 2623.7068804183,
+          "position_value": 781425.0,
+          "unrealized_pnl": -8473.39323,
+          "pnl_percent": -1.084351438717727,
+          "leverage": {
+            "type": "isolated",
+            "value": 25,
+            "rawUsd": "1003567.88176"
+          },
+          "margin_used": 222142.88176,
+          "distance_to_liq_pct": 25.91,
+          "distance_to_liq_usd": 539.91,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xadD12ADBbD5Db87674b38Af99b6dD34Dd2A45e0d",
+      "fetched_at": "2026-02-09T05:08:58.201888",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 1059781.42476,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xBFc79C444c41A74516bF31237eBF586a231480b4",
+      "fetched_at": "2026-02-09T05:08:58.622353",
+      "has_positions": true,
+      "num_positions": 7,
+      "account_summary": {
+        "account_value": 1875906.900744,
+        "total_margin_used": 184654.664104,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1327.5414,
+          "entry_price": 3162.41,
+          "liquidation_price": 3400.9773176233,
+          "position_value": 2766330.76932,
+          "unrealized_pnl": 1431911.05582,
+          "pnl_percent": 51.76210566359648,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 110653.230772,
+          "distance_to_liq_pct": 63.21,
+          "distance_to_liq_usd": 1317.18,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ATOM",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 105000.0,
+          "entry_price": 3.3172,
+          "liquidation_price": null,
+          "position_value": 205527.0,
+          "unrealized_pnl": -142781.109203,
+          "pnl_percent": -69.47073095165112,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 41105.4,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "UNI",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 16000.0,
+          "entry_price": 6.88802,
+          "liquidation_price": 109.6299505174,
+          "position_value": 55432.0,
+          "unrealized_pnl": 54776.379544,
+          "pnl_percent": 98.81725274931448,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 5543.2,
+          "distance_to_liq_pct": 3064.38,
+          "distance_to_liq_usd": 106.17,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "TON",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 125000.0,
+          "entry_price": 2.44408,
+          "liquidation_price": 14.9767776662,
+          "position_value": 173450.0,
+          "unrealized_pnl": 132060.738714,
+          "pnl_percent": 76.13764123032574,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 17345.0,
+          "distance_to_liq_pct": 979.33,
+          "distance_to_liq_usd": 13.59,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "NEAR",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 20000.0,
+          "entry_price": 2.25904,
+          "liquidation_price": 85.9690604139,
+          "position_value": 20734.0,
+          "unrealized_pnl": 24446.822783,
+          "pnl_percent": 117.90692959872673,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 2073.4,
+          "distance_to_liq_pct": 8192.57,
+          "distance_to_liq_usd": 84.93,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "STBL",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 500000.0,
+          "entry_price": 0.440609,
+          "liquidation_price": 3.0966139749,
+          "position_value": 19524.5,
+          "unrealized_pnl": 200780.22307,
+          "pnl_percent": 1028.3501399267586,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 6508.166666,
+          "distance_to_liq_pct": 7830.07,
+          "distance_to_liq_usd": 3.06,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "MET",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 20000.0,
+          "entry_price": 0.373176,
+          "liquidation_price": 76.6530643725,
+          "position_value": 4278.8,
+          "unrealized_pnl": 3184.738734,
+          "pnl_percent": 74.43065191175096,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 1426.266666,
+          "distance_to_liq_pct": 35729.23,
+          "distance_to_liq_usd": 76.44,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xFce053a5e461683454bF37Ad66d20344c0e3F4C0",
+      "fetched_at": "2026-02-09T05:08:58.638169",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 2813546.287121,
+        "total_margin_used": 723075.885,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 150.0,
+          "entry_price": 90472.3,
+          "liquidation_price": 87973.6621110848,
+          "position_value": 10624200.0,
+          "unrealized_pnl": 2946655.782222,
+          "pnl_percent": 27.735319197887844,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 531210.0,
+          "distance_to_liq_pct": 24.21,
+          "distance_to_liq_usd": 17145.66,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1841.5,
+          "entry_price": 3247.09,
+          "liquidation_price": 3470.1364973785,
+          "position_value": 3837317.7,
+          "unrealized_pnl": 2142200.588821,
+          "pnl_percent": 55.82546862932407,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 191865.885,
+          "distance_to_liq_pct": 66.53,
+          "distance_to_liq_usd": 1386.34,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x8bAe3527E5a33fA0cf184f37Bc112D071463aB6d",
+      "fetched_at": "2026-02-09T05:08:58.646700",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 3145331.597758,
+        "total_margin_used": 0.054076,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "GAS",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 0.1,
+          "entry_price": 1.989,
+          "liquidation_price": 26959986.514182854,
+          "position_value": 0.16223,
+          "unrealized_pnl": 0.03667,
+          "pnl_percent": 22.603710780989953,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 0.054076,
+          "distance_to_liq_pct": 1661837199.77,
+          "distance_to_liq_usd": 26959984.89,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x9e8b1e51c642f4C8b87c6BA11c53D516a218Afc4",
+      "fetched_at": "2026-02-09T05:08:58.616218",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 0.0,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xbAAaF6571ab7d571043Ff1E313a9609A10637864",
+      "fetched_at": "2026-02-09T05:08:58.646923",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 787355.288356,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x015354106478Dda69C4aAe3C0Cf801290b738052",
+      "fetched_at": "2026-02-09T05:08:58.618912",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 9588114.570361,
+        "total_margin_used": 9107289.631137,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 191.2257,
+          "entry_price": 65849.3,
+          "liquidation_price": 33304.8802436127,
+          "position_value": 13544133.8796,
+          "unrealized_pnl": 952053.01433,
+          "pnl_percent": 7.029264645441597,
+          "leverage": {
+            "type": "isolated",
+            "value": 2,
+            "rawUsd": "-6289139.6750259995"
+          },
+          "margin_used": 7254994.204574,
+          "distance_to_liq_pct": 52.98,
+          "distance_to_liq_usd": 37523.12,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "XPL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 22219457.0,
+          "entry_price": 0.14943,
+          "liquidation_price": null,
+          "position_value": 1841370.840504,
+          "unrealized_pnl": -1478891.954646,
+          "pnl_percent": -80.31472651327604,
+          "leverage": {
+            "type": "isolated",
+            "value": 1,
+            "rawUsd": "10924.586059"
+          },
+          "margin_used": 1852295.426563,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x0748e296e5a350Ec36C8487a1Cea406e1B57d4b2",
+      "fetched_at": "2026-02-09T05:08:58.638681",
+      "has_positions": true,
+      "num_positions": 5,
+      "account_summary": {
+        "account_value": 1225549.584002,
+        "total_margin_used": 1103097.163572,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "SOL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 15000.0,
+          "entry_price": 75.0968,
+          "liquidation_price": null,
+          "position_value": 1305825.0,
+          "unrealized_pnl": 179372.47257,
+          "pnl_percent": 13.736333166389064,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 65291.25,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "AAVE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 5000.0,
+          "entry_price": 106.3294,
+          "liquidation_price": null,
+          "position_value": 567150.0,
+          "unrealized_pnl": 35502.5907,
+          "pnl_percent": 6.259823803226659,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 56715.0,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 50000.0,
+          "entry_price": 32.4113,
+          "liquidation_price": null,
+          "position_value": 1631500.0,
+          "unrealized_pnl": 10931.49968,
+          "pnl_percent": 0.670027562365921,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 543833.333333,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "PUMP",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1465382706.0,
+          "entry_price": 0.002304,
+          "liquidation_price": null,
+          "position_value": 3125661.311898,
+          "unrealized_pnl": -250801.520178,
+          "pnl_percent": -8.023950618811782,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 312566.131189,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "CC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 2240637.0,
+          "entry_price": 0.171481,
+          "liquidation_price": null,
+          "position_value": 374074.34715,
+          "unrealized_pnl": -10152.79073,
+          "pnl_percent": -2.7141103920523144,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 124691.44905,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xadEd86bF6e6fd72F78DCa132aF112FA36230809E",
+      "fetched_at": "2026-02-09T05:08:58.624010",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 368490.02206,
+        "total_margin_used": 74459.926127,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "SOL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 17106.41,
+          "entry_price": 88.3543,
+          "liquidation_price": 67.1937955355,
+          "position_value": 1489198.52255,
+          "unrealized_pnl": -22226.59376,
+          "pnl_percent": -1.4925205352702557,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 74459.926127,
+          "distance_to_liq_pct": 22.81,
+          "distance_to_liq_usd": 19.86,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xfD97600ac44B3C4e20aC1a5f23e3b18d10fa5912",
+      "fetched_at": "2026-02-09T05:08:58.697429",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 4230012.306351,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x9c2a2a966Ed8E47f0c8B7E2Ec2B91424F229F6a8",
+      "fetched_at": "2026-02-09T05:08:58.727862",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 2201304.731891,
+        "total_margin_used": 37474.301148,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 231.5382,
+          "entry_price": 2087.64,
+          "liquidation_price": 11335.5659425512,
+          "position_value": 482479.30116,
+          "unrealized_pnl": 889.19028,
+          "pnl_percent": 0.1842960470764582,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 24123.965058,
+          "distance_to_liq_pct": 443.99,
+          "distance_to_liq_usd": 9251.77,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 4091.43,
+          "entry_price": 31.7742,
+          "liquidation_price": 541.2378247,
+          "position_value": 133503.3609,
+          "unrealized_pnl": -3501.05901,
+          "pnl_percent": -2.622450091441855,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 13350.33609,
+          "distance_to_liq_pct": 1558.71,
+          "distance_to_liq_usd": 508.61,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x2D99FE0F36C1AEBD28a1a2C0E82E8Ca13C2EA351",
+      "fetched_at": "2026-02-09T05:08:59.015233",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 8680906.300718,
+        "total_margin_used": 5936810.786268,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 171.19624,
+          "entry_price": 70625.1,
+          "liquidation_price": 37350.3124594532,
+          "position_value": 12125487.28672,
+          "unrealized_pnl": 34725.80728,
+          "pnl_percent": 0.2863869010693878,
+          "leverage": {
+            "type": "isolated",
+            "value": 3,
+            "rawUsd": "-6314305.1426849999"
+          },
+          "margin_used": 5811182.144035,
+          "distance_to_liq_pct": 47.27,
+          "distance_to_liq_usd": 33477.69,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 6657.32,
+          "entry_price": 27.3577,
+          "liquidation_price": 14.483417757,
+          "position_value": 217228.3516,
+          "unrealized_pnl": 35098.93054,
+          "pnl_percent": 16.15761951949554,
+          "leverage": {
+            "type": "isolated",
+            "value": 2,
+            "rawUsd": "-91599.709367"
+          },
+          "margin_used": 125628.642233,
+          "distance_to_liq_pct": 55.61,
+          "distance_to_liq_usd": 18.15,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xdBD1bac81ad581C7198C9D155cA468F32a0C29DD",
+      "fetched_at": "2026-02-09T05:08:59.030031",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 1376775.500021,
+        "total_margin_used": 320434.36825,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 775.0025,
+          "entry_price": 3487.66,
+          "liquidation_price": 3752.1545117356,
+          "position_value": 1614950.2095,
+          "unrealized_pnl": 1087995.217054,
+          "pnl_percent": 67.37020192039547,
+          "leverage": {
+            "type": "cross",
+            "value": 6
+          },
+          "margin_used": 269158.36825,
+          "distance_to_liq_pct": 80.06,
+          "distance_to_liq_usd": 1668.35,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "BNB",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 800.0,
+          "entry_price": 1226.872,
+          "liquidation_price": null,
+          "position_value": 512760.0,
+          "unrealized_pnl": -468738.1761,
+          "pnl_percent": -91.41473127779078,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 51276.0,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xa4deddA59F2908b92AE192cfD494839373bCB3C4",
+      "fetched_at": "2026-02-09T05:08:59.032205",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 0.0,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xFB941d2344b72ea9101400392b818173772d0DDF",
+      "fetched_at": "2026-02-09T05:08:59.043390",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 1269479.518919,
+        "total_margin_used": 598397.0018,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 91694.3,
+          "entry_price": 43.9268,
+          "liquidation_price": 19.7740063861,
+          "position_value": 2991985.009,
+          "unrealized_pnl": -1035854.306966,
+          "pnl_percent": -34.62097249318136,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 598397.0018,
+          "distance_to_liq_pct": 39.4,
+          "distance_to_liq_usd": 12.86,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xF00bB08F7D1d04A9415408C939c02410fc6791B1",
+      "fetched_at": "2026-02-09T05:08:59.044389",
+      "has_positions": true,
+      "num_positions": 3,
+      "account_summary": {
+        "account_value": 1546323.509566,
+        "total_margin_used": 157730.666666,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 5.0,
+          "entry_price": 63777.5,
+          "liquidation_price": null,
+          "position_value": 354140.0,
+          "unrealized_pnl": 35252.5,
+          "pnl_percent": 9.9543965663297,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 17707.0,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 300.0,
+          "entry_price": 1941.83,
+          "liquidation_price": null,
+          "position_value": 625140.0,
+          "unrealized_pnl": 42590.123057,
+          "pnl_percent": 6.8128936009533865,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 31257.0,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 10000.0,
+          "entry_price": 33.4349,
+          "liquidation_price": null,
+          "position_value": 326300.0,
+          "unrealized_pnl": -8049.82347,
+          "pnl_percent": -2.4670007569721113,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 108766.666666,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x3BcAE23e8c380Dab4732e9A159c0456F12d866F3",
+      "fetched_at": "2026-02-09T05:08:59.043513",
+      "has_positions": true,
+      "num_positions": 5,
+      "account_summary": {
+        "account_value": 5643088.754098,
+        "total_margin_used": 294124.395819,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 55.19843,
+          "entry_price": 71040.8,
+          "liquidation_price": 169167.2892964975,
+          "position_value": 3909594.40004,
+          "unrealized_pnl": 11751.46182,
+          "pnl_percent": 0.300580076027318,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 97739.860001,
+          "distance_to_liq_pct": 138.84,
+          "distance_to_liq_usd": 98339.29,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1449.744,
+          "entry_price": 2094.96,
+          "liquidation_price": 5800.4984857996,
+          "position_value": 3020976.5472,
+          "unrealized_pnl": 16191.631523,
+          "pnl_percent": 0.5359734268048938,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 120839.061888,
+          "distance_to_liq_pct": 178.36,
+          "distance_to_liq_usd": 3716.7,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 21359.65,
+          "entry_price": 33.0034,
+          "liquidation_price": 277.6860288157,
+          "position_value": 696965.3795,
+          "unrealized_pnl": 7977.369342,
+          "pnl_percent": 1.1445861697926705,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 69696.53795,
+          "distance_to_liq_pct": 751.01,
+          "distance_to_liq_usd": 245.06,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "WLFI",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 28388.0,
+          "entry_price": 0.113378,
+          "liquidation_price": 176.1168948074,
+          "position_value": 3218.63144,
+          "unrealized_pnl": -0.04863,
+          "pnl_percent": -0.0015108906038648524,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 643.726288,
+          "distance_to_liq_pct": 155233.3,
+          "distance_to_liq_usd": 176.0,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "XMR",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 78.929,
+          "entry_price": 319.141,
+          "liquidation_price": null,
+          "position_value": 26026.04846,
+          "unrealized_pnl": 836.5429,
+          "pnl_percent": 3.214252448986641,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 5205.209692,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xD6E1a6f7bb47ACA69aaA511210227d40926ff256",
+      "fetched_at": "2026-02-09T05:08:59.059294",
+      "has_positions": true,
+      "num_positions": 8,
+      "account_summary": {
+        "account_value": 702133.015175,
+        "total_margin_used": 182458.792099,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 804.1735,
+          "entry_price": 2037.43,
+          "liquidation_price": 1294.7347320661,
+          "position_value": 1675736.7393,
+          "unrealized_pnl": 37285.66494,
+          "pnl_percent": 2.225031179752926,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 83786.836965,
+          "distance_to_liq_pct": 37.87,
+          "distance_to_liq_usd": 789.07,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "DOGE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 6306787.0,
+          "entry_price": 0.119355,
+          "liquidation_price": 0.1900605581,
+          "position_value": 606429.103985,
+          "unrealized_pnl": 146319.733664,
+          "pnl_percent": 24.128085657910507,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 60642.910398,
+          "distance_to_liq_pct": 97.66,
+          "distance_to_liq_usd": 0.09,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "WLD",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 5457.8,
+          "entry_price": 0.39118,
+          "liquidation_price": null,
+          "position_value": 2133.18113,
+          "unrealized_pnl": -1.801074,
+          "pnl_percent": -0.08443136753230139,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 213.318113,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ADA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 538790.0,
+          "entry_price": 0.309897,
+          "liquidation_price": null,
+          "position_value": 146453.8978,
+          "unrealized_pnl": -20515.976818,
+          "pnl_percent": -14.008488081359893,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 14645.38978,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "WIF",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 137136.0,
+          "entry_price": 0.22643,
+          "liquidation_price": null,
+          "position_value": 31239.5808,
+          "unrealized_pnl": 187.87632,
+          "pnl_percent": 0.6014047410008779,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 6247.91616,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HBAR",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 111959.0,
+          "entry_price": 0.127116,
+          "liquidation_price": 5.1412834837,
+          "position_value": 10290.711485,
+          "unrealized_pnl": 3941.165727,
+          "pnl_percent": 38.29828222027935,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 2058.142297,
+          "distance_to_liq_pct": 5493.52,
+          "distance_to_liq_usd": 5.05,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "XLM",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 141057.0,
+          "entry_price": 0.204726,
+          "liquidation_price": 4.1699474744,
+          "position_value": 22878.03483,
+          "unrealized_pnl": 6000.094632,
+          "pnl_percent": 26.22644242210903,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 4575.606966,
+          "distance_to_liq_pct": 2471.03,
+          "distance_to_liq_usd": 4.01,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "TRUMP",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 14941.0,
+          "entry_price": 4.47926,
+          "liquidation_price": null,
+          "position_value": 51443.3571,
+          "unrealized_pnl": -15481.341541,
+          "pnl_percent": -30.093956564510442,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 10288.67142,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x8bCF7a888C66f635Ac4A2CAf42A8Dd12A3b20B14",
+      "fetched_at": "2026-02-09T05:08:59.060563",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 2746907.930584,
+        "total_margin_used": 295542.373333,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 3.6,
+          "entry_price": 70388.2,
+          "liquidation_price": null,
+          "position_value": 254980.8,
+          "unrealized_pnl": 1583.24498,
+          "pnl_percent": 0.6209271364745894,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 12749.04,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 26000.0,
+          "entry_price": 36.2016,
+          "liquidation_price": 131.5787791423,
+          "position_value": 848380.0,
+          "unrealized_pnl": 92861.80901,
+          "pnl_percent": 10.945780076145123,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 282793.333333,
+          "distance_to_liq_pct": 303.24,
+          "distance_to_liq_usd": 98.95,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xb919448d2F1797E5D9E7b9e88cD909A5089E6d4E",
+      "fetched_at": "2026-02-09T05:08:59.085812",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 385394.926349,
+        "total_margin_used": 49580.79891,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 8.0,
+          "entry_price": 78268.8,
+          "liquidation_price": 115347.077394321,
+          "position_value": 566624.0,
+          "unrealized_pnl": 59527.153564,
+          "pnl_percent": 10.505582814000112,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 14165.6,
+          "distance_to_liq_pct": 62.86,
+          "distance_to_liq_usd": 44519.08,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 10853.57,
+          "entry_price": 32.2782,
+          "liquidation_price": 64.2723888874,
+          "position_value": 354151.9891,
+          "unrealized_pnl": -3817.535028,
+          "pnl_percent": -1.0779369156450123,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 35415.19891,
+          "distance_to_liq_pct": 96.97,
+          "distance_to_liq_usd": 31.64,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x987163B6b482C30c2F5f3aa2760109668Eb0091d",
+      "fetched_at": "2026-02-09T05:08:59.133200",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 672181.734996,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x1e37a337Ed460039D1B15Bd3bC489DE789768D5e",
+      "fetched_at": "2026-02-09T05:08:59.405122",
+      "has_positions": true,
+      "num_positions": 19,
+      "account_summary": {
+        "account_value": 6924247.995004,
+        "total_margin_used": 528703.7636,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 3.14621,
+          "entry_price": 68767.0,
+          "liquidation_price": null,
+          "position_value": 222839.76188,
+          "unrealized_pnl": 6484.210477,
+          "pnl_percent": 2.9098085648160805,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 5570.994047,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 131.5952,
+          "entry_price": 2049.85,
+          "liquidation_price": null,
+          "position_value": 274218.07776,
+          "unrealized_pnl": 4466.453564,
+          "pnl_percent": 1.6287961758338596,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 10968.72311,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "SOL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 3690.28,
+          "entry_price": 83.6885,
+          "liquidation_price": null,
+          "position_value": 321257.3254,
+          "unrealized_pnl": 12423.060704,
+          "pnl_percent": 3.8670124295319805,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 16062.86627,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "AVAX",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 60190.36,
+          "entry_price": 9.2234,
+          "liquidation_price": null,
+          "position_value": 547768.390216,
+          "unrealized_pnl": -7395.032279,
+          "pnl_percent": -1.3500290288901002,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 54776.839021,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "BNB",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1230.152,
+          "entry_price": 679.206,
+          "liquidation_price": null,
+          "position_value": 788465.9244,
+          "unrealized_pnl": -47060.910556,
+          "pnl_percent": -5.968667649373942,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 78846.59244,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "LTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 2101.79,
+          "entry_price": 53.6247,
+          "liquidation_price": 3072.4917434305,
+          "position_value": 114974.21837,
+          "unrealized_pnl": -2266.236312,
+          "pnl_percent": -1.9710821644440286,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 11497.421837,
+          "distance_to_liq_pct": 5516.68,
+          "distance_to_liq_usd": 3017.79,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "DOGE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 2155309.0,
+          "entry_price": 0.098286,
+          "liquidation_price": null,
+          "position_value": 207243.736895,
+          "unrealized_pnl": -4593.838948,
+          "pnl_percent": -2.2166358399180317,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 20724.373689,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "INJ",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 121331.5,
+          "entry_price": 3.28901,
+          "liquidation_price": null,
+          "position_value": 390323.4355,
+          "unrealized_pnl": -8738.195534,
+          "pnl_percent": -2.2387063494679658,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 39032.34355,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "CRV",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 2387458.3,
+          "entry_price": 0.2564,
+          "liquidation_price": null,
+          "position_value": 608419.873172,
+          "unrealized_pnl": -3740.72502,
+          "pnl_percent": -0.6148262384161962,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 60841.987317,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "LINK",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 45099.4,
+          "entry_price": 8.73517,
+          "liquidation_price": null,
+          "position_value": 397145.3164,
+          "unrealized_pnl": 3193.9572,
+          "pnl_percent": 0.8042288472522446,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 39714.53164,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "XRP",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 39987.0,
+          "entry_price": 1.52154,
+          "liquidation_price": null,
+          "position_value": 57689.2449,
+          "unrealized_pnl": -3152.612684,
+          "pnl_percent": -5.464818770751497,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 2884.462245,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "BCH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 119.787,
+          "entry_price": 534.987,
+          "liquidation_price": null,
+          "position_value": 63191.23611,
+          "unrealized_pnl": -893.338399,
+          "pnl_percent": -1.41370616242563,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 6319.123611,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "AAVE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 3009.45,
+          "entry_price": 111.5658,
+          "liquidation_price": null,
+          "position_value": 341361.9135,
+          "unrealized_pnl": 5610.176747,
+          "pnl_percent": 1.6434688596271885,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 34136.19135,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "TRX",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 225774.0,
+          "entry_price": 0.30165,
+          "liquidation_price": null,
+          "position_value": 62988.68826,
+          "unrealized_pnl": -5116.112761,
+          "pnl_percent": -8.12227227193888,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 6298.868826,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "kSHIB",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 3501632.0,
+          "entry_price": 0.006364,
+          "liquidation_price": null,
+          "position_value": 21559.548224,
+          "unrealized_pnl": -726.950635,
+          "pnl_percent": -3.3718268464956127,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 2155.954822,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "UNI",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 140067.4,
+          "entry_price": 3.50691,
+          "liquidation_price": null,
+          "position_value": 485263.5073,
+          "unrealized_pnl": -5940.740485,
+          "pnl_percent": -1.2242298041437745,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 48526.35073,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "DOT",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 416374.3,
+          "entry_price": 1.36487,
+          "liquidation_price": null,
+          "position_value": 553486.35699,
+          "unrealized_pnl": -14810.830759,
+          "pnl_percent": -2.675916139928918,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 55348.635699,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ADA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 353334.0,
+          "entry_price": 0.274348,
+          "liquidation_price": null,
+          "position_value": 96043.24788,
+          "unrealized_pnl": -893.466331,
+          "pnl_percent": -0.9302750070638282,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 9604.324788,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "NEAR",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 244942.4,
+          "entry_price": 1.0275,
+          "liquidation_price": null,
+          "position_value": 253931.78608,
+          "unrealized_pnl": 2252.356673,
+          "pnl_percent": 0.8869928053396221,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 25393.178608,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x8fC7c0442e582bca195978C5a4FDeC2e7C5bB0f7",
+      "fetched_at": "2026-02-09T05:08:59.414983",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 506743.233644,
+        "total_margin_used": 34814.369651,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "XPL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 265733.0,
+          "entry_price": 0.254653,
+          "liquidation_price": null,
+          "position_value": 22021.825176,
+          "unrealized_pnl": -45648.095878,
+          "pnl_percent": -207.2857063988891,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 2202.182517,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "LIT",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 28240.0,
+          "entry_price": 1.507364,
+          "liquidation_price": 0.5290861216,
+          "position_value": 46059.44,
+          "unrealized_pnl": 3491.4618,
+          "pnl_percent": 7.580339231219485,
+          "leverage": {
+            "type": "isolated",
+            "value": 3,
+            "rawUsd": "-13447.252866"
+          },
+          "margin_used": 32612.187134,
+          "distance_to_liq_pct": 67.56,
+          "distance_to_liq_usd": 1.1,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x7f55Bd494bed4b4eED2064ECCC1aF75e9d76aD4b",
+      "fetched_at": "2026-02-09T05:08:59.424632",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 80000.103166,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xE867fbDAD3291530E41530301EcB77693850C78e",
+      "fetched_at": "2026-02-09T05:08:59.438332",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 3847945.12268,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x1E771e1b95c86491299D6E2A5C3b3842D03b552E",
+      "fetched_at": "2026-02-09T05:08:59.431220",
+      "has_positions": true,
+      "num_positions": 7,
+      "account_summary": {
+        "account_value": 3235822.251228,
+        "total_margin_used": 239192.12234,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1.0,
+          "entry_price": 85908.7,
+          "liquidation_price": null,
+          "position_value": 70828.0,
+          "unrealized_pnl": -15080.769364,
+          "pnl_percent": -21.292101095611905,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 7082.8,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 150.0,
+          "entry_price": 3206.96,
+          "liquidation_price": 22844.5360461307,
+          "position_value": 312570.0,
+          "unrealized_pnl": 168474.441932,
+          "pnl_percent": 53.89974787471606,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 12502.8,
+          "distance_to_liq_pct": 996.29,
+          "distance_to_liq_usd": 20760.74,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "DOGE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 765060.0,
+          "entry_price": 0.262119,
+          "liquidation_price": 4.0502707868,
+          "position_value": 73564.3443,
+          "unrealized_pnl": 126972.60917,
+          "pnl_percent": 172.60074887937253,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 7356.43443,
+          "distance_to_liq_pct": 4112.23,
+          "distance_to_liq_usd": 3.95,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "kBONK",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 8745595.0,
+          "entry_price": 0.021324,
+          "liquidation_price": null,
+          "position_value": 54738.679105,
+          "unrealized_pnl": -131757.862747,
+          "pnl_percent": -240.70340187468068,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 5473.86791,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ENA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 150000.0,
+          "entry_price": 0.306486,
+          "liquidation_price": null,
+          "position_value": 18154.5,
+          "unrealized_pnl": -27818.51994,
+          "pnl_percent": -153.23209088655705,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 1815.45,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 23500.0,
+          "entry_price": 37.1751,
+          "liquidation_price": 161.3591839942,
+          "position_value": 766805.0,
+          "unrealized_pnl": 106810.592501,
+          "pnl_percent": 13.929303082400352,
+          "leverage": {
+            "type": "cross",
+            "value": 4
+          },
+          "margin_used": 191701.25,
+          "distance_to_liq_pct": 394.51,
+          "distance_to_liq_usd": 128.73,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "XPL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1600000.0,
+          "entry_price": 0.518252,
+          "liquidation_price": null,
+          "position_value": 132595.2,
+          "unrealized_pnl": -696609.3222,
+          "pnl_percent": -525.3654145851433,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 13259.52,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x3c37DC9b5D4c60d404EC834987C106510d03442F",
+      "fetched_at": "2026-02-09T05:08:59.443021",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 324353.054429,
+        "total_margin_used": 9855.982015,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "MELANIA",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 78957.7,
+          "entry_price": 0.12616,
+          "liquidation_price": 0.2167938028,
+          "position_value": 10114.48137,
+          "unrealized_pnl": -152.612495,
+          "pnl_percent": -1.5088514123191272,
+          "leverage": {
+            "type": "isolated",
+            "value": 1,
+            "rawUsd": "19970.463385"
+          },
+          "margin_used": 9855.982015,
+          "distance_to_liq_pct": 69.24,
+          "distance_to_liq_usd": 0.09,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x8434b7844Fd17fAD52f0aCEae50a834Cd4896577",
+      "fetched_at": "2026-02-09T05:08:59.454255",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 162236.290784,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xe0665019FcF5fFa4A5aEa5CF65F84016fCbE78Da",
+      "fetched_at": "2026-02-09T05:08:59.469632",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 26957.089865,
+        "total_margin_used": 809.882766,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 0.45738,
+          "entry_price": 70364.4,
+          "liquidation_price": 12040.4456090302,
+          "position_value": 32395.31064,
+          "unrealized_pnl": 212.01246,
+          "pnl_percent": 0.6544541657773714,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 809.882766,
+          "distance_to_liq_pct": 83.0,
+          "distance_to_liq_usd": 58787.55,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x4F2b5981D89A1C60Bc73eA23edef2797447B3C17",
+      "fetched_at": "2026-02-09T05:08:59.431110",
+      "has_positions": true,
+      "num_positions": 19,
+      "account_summary": {
+        "account_value": 386247.311472,
+        "total_margin_used": 359382.589792,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 0.09375,
+          "entry_price": 109770.3,
+          "liquidation_price": 2548695.994637696,
+          "position_value": 6640.125,
+          "unrealized_pnl": 3650.84723,
+          "pnl_percent": 54.98160396076881,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 166.003125,
+          "distance_to_liq_pct": 3498.43,
+          "distance_to_liq_usd": 2477867.99,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "SUI",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 142071.6,
+          "entry_price": 1.55581,
+          "liquidation_price": 2.5565257751,
+          "position_value": 139206.015828,
+          "unrealized_pnl": 81830.979062,
+          "pnl_percent": 58.78408240855669,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 13920.601582,
+          "distance_to_liq_pct": 160.92,
+          "distance_to_liq_usd": 1.58,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ADA",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1785870.0,
+          "entry_price": 0.245506,
+          "liquidation_price": 0.3972511296,
+          "position_value": 485435.1834,
+          "unrealized_pnl": -46992.16975,
+          "pnl_percent": -9.680421064840354,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 48543.51834,
+          "distance_to_liq_pct": 46.14,
+          "distance_to_liq_usd": 0.13,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ZEN",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 0.04,
+          "entry_price": 11.5553,
+          "liquidation_price": 5345548.629977272,
+          "position_value": 0.239696,
+          "unrealized_pnl": 0.222517,
+          "pnl_percent": 92.8330051398438,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 0.047939,
+          "distance_to_liq_pct": 89205370.76,
+          "distance_to_liq_usd": 5345542.64,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "kBONK",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 15196114.0,
+          "entry_price": 0.006459,
+          "liquidation_price": 0.0209998536,
+          "position_value": 95112.477526,
+          "unrealized_pnl": 3042.238871,
+          "pnl_percent": 3.1985696831084773,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 31704.159175,
+          "distance_to_liq_pct": 235.51,
+          "distance_to_liq_usd": 0.01,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "WIF",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 308823.0,
+          "entry_price": 0.33114,
+          "liquidation_price": 0.9201762333,
+          "position_value": 70349.8794,
+          "unrealized_pnl": 31913.9014,
+          "pnl_percent": 45.364543155137234,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 14069.97588,
+          "distance_to_liq_pct": 303.94,
+          "distance_to_liq_usd": 0.69,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "TAO",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 0.002,
+          "entry_price": 512.177,
+          "liquidation_price": 106911017.72181818,
+          "position_value": 0.32994,
+          "unrealized_pnl": 0.694415,
+          "pnl_percent": 210.4670546159908,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 0.065988,
+          "distance_to_liq_pct": 64806239.17,
+          "distance_to_liq_usd": 106910852.75,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "POPCAT",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1.0,
+          "entry_price": 0.15424,
+          "liquidation_price": 224003.7437523809,
+          "position_value": 0.052273,
+          "unrealized_pnl": 0.101967,
+          "pnl_percent": 195.06628661067856,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 0.017424,
+          "distance_to_liq_pct": 428526565.3,
+          "distance_to_liq_usd": 224003.69,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "EIGEN",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 0.01,
+          "entry_price": 1.1,
+          "liquidation_price": 21382170.75945454,
+          "position_value": 0.002091,
+          "unrealized_pnl": 0.008909,
+          "pnl_percent": 426.06408417025347,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 0.000418,
+          "distance_to_liq_pct": 10225810880.13,
+          "distance_to_liq_usd": 21382170.55,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "PURR",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1282.0,
+          "entry_price": 0.11193,
+          "liquidation_price": 157.3353916942,
+          "position_value": 100.64982,
+          "unrealized_pnl": 42.84444,
+          "pnl_percent": 42.567825754680925,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 33.54994,
+          "distance_to_liq_pct": 200301.72,
+          "distance_to_liq_usd": 157.26,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 26135.24,
+          "entry_price": 31.719,
+          "liquidation_price": 41.2009444979,
+          "position_value": 852792.8812,
+          "unrealized_pnl": -23808.096291,
+          "pnl_percent": -2.79177943623294,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 85279.28812,
+          "distance_to_liq_pct": 26.27,
+          "distance_to_liq_usd": 8.57,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "TRUMP",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 18.8,
+          "entry_price": 7.77739,
+          "liquidation_price": 11918.5330723404,
+          "position_value": 64.73028,
+          "unrealized_pnl": 81.484729,
+          "pnl_percent": 125.88347987989548,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 6.473028,
+          "distance_to_liq_pct": 346057.04,
+          "distance_to_liq_usd": 11915.09,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "VVV",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 0.01,
+          "entry_price": 1.5102,
+          "liquidation_price": 20160334.087285712,
+          "position_value": 0.018541,
+          "unrealized_pnl": -0.003439,
+          "pnl_percent": -18.548082627689986,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 0.00618,
+          "distance_to_liq_pct": 1087337912.37,
+          "distance_to_liq_usd": 20160332.23,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "NIL",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1.0,
+          "entry_price": 0.273068,
+          "liquidation_price": 201603.3689262857,
+          "position_value": 0.046595,
+          "unrealized_pnl": 0.226473,
+          "pnl_percent": 486.0457130593412,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 0.015531,
+          "distance_to_liq_pct": 432671579.21,
+          "distance_to_liq_usd": 201603.32,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "STBL",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 6748.0,
+          "entry_price": 0.08146,
+          "liquidation_price": 29.9150600153,
+          "position_value": 263.502652,
+          "unrealized_pnl": 286.191001,
+          "pnl_percent": 108.6102924687073,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 87.834217,
+          "distance_to_liq_pct": 76509.03,
+          "distance_to_liq_usd": 29.88,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "APEX",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1.0,
+          "entry_price": 1.157181,
+          "liquidation_price": 201603.6336814286,
+          "position_value": 0.31135,
+          "unrealized_pnl": 0.845831,
+          "pnl_percent": 271.665649590493,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 0.103783,
+          "distance_to_liq_pct": 64751348.11,
+          "distance_to_liq_usd": 201603.32,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ZEC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1462.19,
+          "entry_price": 389.3897,
+          "liquidation_price": 70.7465691016,
+          "position_value": 351027.9533,
+          "unrealized_pnl": -218333.916019,
+          "pnl_percent": -62.19844145357981,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 70205.59066,
+          "distance_to_liq_pct": 70.53,
+          "distance_to_liq_usd": 169.32,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "MON",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 15126244.0,
+          "entry_price": 0.017866,
+          "liquidation_price": 0.0323718096,
+          "position_value": 275842.185584,
+          "unrealized_pnl": -5585.698113,
+          "pnl_percent": -2.024961519636391,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 55168.437116,
+          "distance_to_liq_pct": 77.52,
+          "distance_to_liq_usd": 0.01,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "MET",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 563666.0,
+          "entry_price": 0.36514,
+          "liquidation_price": 0.5716045076,
+          "position_value": 120590.70404,
+          "unrealized_pnl": 85226.311484,
+          "pnl_percent": 70.67403094000545,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 40196.901346,
+          "distance_to_liq_pct": 167.18,
+          "distance_to_liq_usd": 0.36,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x7E09dfbbA23d078e16F038b1ED4c558185c4be1E",
+      "fetched_at": "2026-02-09T05:08:59.529216",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 141979.125184,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xB854F7F40f0f3E1801Fb6d8828B6f6Dd97eBF33b",
+      "fetched_at": "2026-02-09T05:08:59.799818",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 195774.637037,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x0aF66f3571761D7196B713fF881609D7e7456Fe1",
+      "fetched_at": "2026-02-09T05:08:59.815994",
+      "has_positions": true,
+      "num_positions": 4,
+      "account_summary": {
+        "account_value": 114674.739642,
+        "total_margin_used": 14518.022,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1200.0,
+          "entry_price": 36.695,
+          "liquidation_price": 121.5061338429,
+          "position_value": 39156.0,
+          "unrealized_pnl": 4878.08806,
+          "pnl_percent": 12.458085759525998,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 13052.0,
+          "distance_to_liq_pct": 272.38,
+          "distance_to_liq_usd": 88.88,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "BERA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1000.0,
+          "entry_price": 0.817,
+          "liquidation_price": null,
+          "position_value": 467.06,
+          "unrealized_pnl": -349.946334,
+          "pnl_percent": -74.92534877745899,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 93.412,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ZEC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 30.0,
+          "entry_price": 491.303,
+          "liquidation_price": null,
+          "position_value": 7202.1,
+          "unrealized_pnl": -7536.9926,
+          "pnl_percent": -104.64992988156231,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 720.21,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "LIT",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 2000.0,
+          "entry_price": 1.568406,
+          "liquidation_price": 52.5327857464,
+          "position_value": 3262.0,
+          "unrealized_pnl": -125.1864,
+          "pnl_percent": -3.837719190680564,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 652.4,
+          "distance_to_liq_pct": 3120.89,
+          "distance_to_liq_usd": 50.9,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x049345fce8AD9095a2DeC41059CfB50E9BA0bBDE",
+      "fetched_at": "2026-02-09T05:08:59.806452",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 35045.925789,
+        "total_margin_used": 850.80933,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "GMT",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 205758.0,
+          "entry_price": 0.016339,
+          "liquidation_price": null,
+          "position_value": 2552.42799,
+          "unrealized_pnl": -809.624811,
+          "pnl_percent": -31.719790496420625,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 850.80933,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xA844d7ac9FA3424C4Fd38A25baa23e460Ec3E802",
+      "fetched_at": "2026-02-09T05:08:59.824825",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 607216.145879,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x8e2e546506c1f97220AA9c557aF7cc0Fff9896E2",
+      "fetched_at": "2026-02-09T05:08:59.825117",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 106289.613956,
+        "total_margin_used": 44019.661489,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "ENA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 501793.0,
+          "entry_price": 0.436517,
+          "liquidation_price": null,
+          "position_value": 60732.00679,
+          "unrealized_pnl": -158309.55401,
+          "pnl_percent": -260.66906459621043,
+          "leverage": {
+            "type": "cross",
+            "value": 9
+          },
+          "margin_used": 6748.000754,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 1125.0,
+          "entry_price": 32.881,
+          "liquidation_price": 62.6289191407,
+          "position_value": 36708.75,
+          "unrealized_pnl": 282.375,
+          "pnl_percent": 0.7692307692307693,
+          "leverage": {
+            "type": "isolated",
+            "value": 1,
+            "rawUsd": "73980.410735"
+          },
+          "margin_used": 37271.660735,
+          "distance_to_liq_pct": 91.94,
+          "distance_to_liq_usd": 30.0,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xaE2445CDC416b6A70bbF84a8678a13EA6003E7f8",
+      "fetched_at": "2026-02-09T05:08:59.848339",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 94665.510145,
+        "total_margin_used": 1631.5,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 500.0,
+          "entry_price": 34.3323,
+          "liquidation_price": null,
+          "position_value": 16315.0,
+          "unrealized_pnl": -851.17655,
+          "pnl_percent": -5.217140974563286,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 1631.5,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x491251909171d4b9B39C5Bc5d70515292e21Eaf0",
+      "fetched_at": "2026-02-09T05:08:59.856670",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 22845.308863,
+        "total_margin_used": 2464.92,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BLUR",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 360000.0,
+          "entry_price": 0.078607,
+          "liquidation_price": null,
+          "position_value": 7394.76,
+          "unrealized_pnl": -20904.016268,
+          "pnl_percent": -282.68687919553844,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 2464.92,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x3979BDF742Ce46C9dCd570c70d2D6e88B87dF0E9",
+      "fetched_at": "2026-02-09T05:08:59.847803",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 23440.885455,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xeb83E695adCac2e83f290d2d2815FC58e6491d7A",
+      "fetched_at": "2026-02-09T05:08:59.856129",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 143943.091068,
+        "total_margin_used": 12656.17,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 5.5,
+          "entry_price": 80001.0,
+          "liquidation_price": 45490.3694236133,
+          "position_value": 389554.0,
+          "unrealized_pnl": -50451.55192,
+          "pnl_percent": -12.951106116225223,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 9738.85,
+          "distance_to_liq_pct": 35.77,
+          "distance_to_liq_usd": 25337.63,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 35.0,
+          "entry_price": 2208.21,
+          "liquidation_price": null,
+          "position_value": 72933.0,
+          "unrealized_pnl": -4354.55105,
+          "pnl_percent": -5.97061830721347,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 2917.32,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xa44898949336804325763810E731f7Aabf768250",
+      "fetched_at": "2026-02-09T05:08:59.919856",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 22799.595566,
+        "total_margin_used": 19788.04775,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 510.69,
+          "entry_price": 32.8077,
+          "liquidation_price": null,
+          "position_value": 16663.8147,
+          "unrealized_pnl": -90.79817,
+          "pnl_percent": -0.5448822591624234,
+          "leverage": {
+            "type": "cross",
+            "value": 2
+          },
+          "margin_used": 8331.90735,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ZEC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 95.44,
+          "entry_price": 209.3227,
+          "liquidation_price": 10.4323021242,
+          "position_value": 22912.2808,
+          "unrealized_pnl": 2934.5186,
+          "pnl_percent": 12.807623237578339,
+          "leverage": {
+            "type": "cross",
+            "value": 2
+          },
+          "margin_used": 11456.1404,
+          "distance_to_liq_pct": 95.65,
+          "distance_to_liq_usd": 229.64,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x4078582C42fdb547B1397FaBB5D5A4beAB81bE9E",
+      "fetched_at": "2026-02-09T05:09:00.195328",
+      "has_positions": true,
+      "num_positions": 3,
+      "account_summary": {
+        "account_value": 152568.488804,
+        "total_margin_used": 1714.4963,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 0.10704,
+          "entry_price": 65892.2,
+          "liquidation_price": null,
+          "position_value": 7581.42912,
+          "unrealized_pnl": 528.318431,
+          "pnl_percent": 6.968586299993003,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 189.535728,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "XPL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 183985.0,
+          "entry_price": 0.100082,
+          "liquidation_price": null,
+          "position_value": 15247.20492,
+          "unrealized_pnl": -3166.524037,
+          "pnl_percent": -20.767898468042628,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 1524.720492,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ZEC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 0.01,
+          "entry_price": 213.8902,
+          "liquidation_price": null,
+          "position_value": 2.4008,
+          "unrealized_pnl": 0.261898,
+          "pnl_percent": 10.908780406531157,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 0.24008,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xd474209f12d153CB907B1a00BcDF7b20dbc0bd39",
+      "fetched_at": "2026-02-09T05:09:00.202438",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 0.008495,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x2C229d22B100a7BeB69122eeD721CEE9B24011dd",
+      "fetched_at": "2026-02-09T05:09:00.204873",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 219938.581438,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0x98dad31dE2bcc79d169E72D191F753E5c708252f",
+      "fetched_at": "2026-02-09T05:09:00.219132",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 13158.465079,
+        "total_margin_used": 4010.971933,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 2.26519,
+          "entry_price": 66989.0,
+          "liquidation_price": 65842.0358807468,
+          "position_value": 160438.87732,
+          "unrealized_pnl": 8695.989895,
+          "pnl_percent": 5.42012636853323,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 4010.971933,
+          "distance_to_liq_pct": 7.04,
+          "distance_to_liq_usd": 4985.96,
+          "risk_level": "MODERATE"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xB552648f037B4C60bA9c237bb503735aed0dB94E",
+      "fetched_at": "2026-02-09T05:09:00.217711",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 223095.079257,
+        "total_margin_used": 3.788448,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "GRIFFAIN",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1206.0,
+          "entry_price": 0.014056,
+          "liquidation_price": null,
+          "position_value": 11.365344,
+          "unrealized_pnl": -5.586192,
+          "pnl_percent": -49.15110356536502,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 3.788448,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xd8b07BC1bC3bAe553BCA5E94E99935dC12Df24Ff",
+      "fetched_at": "2026-02-09T05:09:00.260933",
+      "has_positions": true,
+      "num_positions": 3,
+      "account_summary": {
+        "account_value": 424744.385614,
+        "total_margin_used": 25196.149771,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 6.9935,
+          "entry_price": 71223.2,
+          "liquidation_price": 11149.2479249357,
+          "position_value": 495335.618,
+          "unrealized_pnl": -2764.41822,
+          "pnl_percent": -0.5580899332783292,
+          "leverage": {
+            "type": "cross",
+            "value": 40
+          },
+          "margin_used": 12383.39045,
+          "distance_to_liq_pct": 84.26,
+          "distance_to_liq_usd": 59678.75,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 94.2961,
+          "entry_price": 2131.11,
+          "liquidation_price": null,
+          "position_value": 196494.21318,
+          "unrealized_pnl": -4461.47739,
+          "pnl_percent": -2.270538820353468,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 7859.768527,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "SOL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1137.86,
+          "entry_price": 87.9279,
+          "liquidation_price": null,
+          "position_value": 99059.81588,
+          "unrealized_pnl": -989.84824,
+          "pnl_percent": -0.9992429636645919,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 4952.990794,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xd47776750BF095AE3F0461e06CE312c2e6026e7E",
+      "fetched_at": "2026-02-09T05:09:00.260189",
+      "has_positions": true,
+      "num_positions": 4,
+      "account_summary": {
+        "account_value": 27578.136258,
+        "total_margin_used": 9519.648791,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "WLD",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 2221.8,
+          "entry_price": 0.45009,
+          "liquidation_price": 10.633349566,
+          "position_value": 868.39053,
+          "unrealized_pnl": 131.619432,
+          "pnl_percent": 15.156709735192528,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 289.46351,
+          "distance_to_liq_pct": 2620.57,
+          "distance_to_liq_usd": 10.24,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "BERA",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 31305.0,
+          "entry_price": 0.4802,
+          "liquidation_price": 1.1609251028,
+          "position_value": 14620.37415,
+          "unrealized_pnl": 412.426253,
+          "pnl_percent": 2.8209008112148757,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 4873.45805,
+          "distance_to_liq_pct": 148.58,
+          "distance_to_liq_usd": 0.69,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "RESOLV",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 194211.0,
+          "entry_price": 0.065909,
+          "liquidation_price": null,
+          "position_value": 13065.545025,
+          "unrealized_pnl": 265.264698,
+          "pnl_percent": 2.030261251960287,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 4355.181675,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "AXS",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 3.1,
+          "entry_price": 1.25859,
+          "liquidation_price": 7008.7170527859,
+          "position_value": 4.63667,
+          "unrealized_pnl": -0.735011,
+          "pnl_percent": -15.852130947425632,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 1.545556,
+          "distance_to_liq_pct": 468491.1,
+          "distance_to_liq_usd": 7007.22,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x3005Fade4c0dF5e1cD187D7062da359416F0Eb8E",
+      "fetched_at": "2026-02-09T05:09:00.260305",
+      "has_positions": true,
+      "num_positions": 3,
+      "account_summary": {
+        "account_value": 546519.783291,
+        "total_margin_used": 50467.043607,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 200.6286,
+          "entry_price": 3048.31,
+          "liquidation_price": null,
+          "position_value": 418069.87668,
+          "unrealized_pnl": -193509.335867,
+          "pnl_percent": -46.286361840682524,
+          "leverage": {
+            "type": "cross",
+            "value": 25
+          },
+          "margin_used": 16722.795067,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 9688.38,
+          "entry_price": 26.5026,
+          "liquidation_price": null,
+          "position_value": 316131.8394,
+          "unrealized_pnl": 59364.246637,
+          "pnl_percent": 18.77831943459726,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 31613.18394,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "LIT",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 6533.0,
+          "entry_price": 1.9896,
+          "liquidation_price": null,
+          "position_value": 10655.323,
+          "unrealized_pnl": -2342.7338,
+          "pnl_percent": -21.98651134273452,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 2131.0646,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x8f8D2D2565bFB10608a7Ce64b48E2Aea7875a344",
+      "fetched_at": "2026-02-09T05:09:00.274967",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 209754.330015,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xFF9152cce6fbd30988B1aEf70DF6F086c99E2C55",
+      "fetched_at": "2026-02-09T05:09:00.310347",
+      "has_positions": true,
+      "num_positions": 4,
+      "account_summary": {
+        "account_value": 175915.342482,
+        "total_margin_used": 53300.436525,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 3.56812,
+          "entry_price": 77448.9,
+          "liquidation_price": 24456.8000908751,
+          "position_value": 252722.80336,
+          "unrealized_pnl": -23624.225202,
+          "pnl_percent": -9.34788032101228,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 12636.140168,
+          "distance_to_liq_pct": 65.47,
+          "distance_to_liq_usd": 46371.2,
+          "risk_level": "LOW"
+        },
+        {
+          "coin": "BNB",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 56.357,
+          "entry_price": 848.465,
+          "liquidation_price": null,
+          "position_value": 36125.40057,
+          "unrealized_pnl": -11691.569429,
+          "pnl_percent": -32.363847167162355,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 3612.540057,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "AAVE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 504.4,
+          "entry_price": 137.412,
+          "liquidation_price": null,
+          "position_value": 57214.092,
+          "unrealized_pnl": -12096.539739,
+          "pnl_percent": -21.1425879816462,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 5721.4092,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 2880.51,
+          "entry_price": 26.7946,
+          "liquidation_price": null,
+          "position_value": 93991.0413,
+          "unrealized_pnl": 16808.690722,
+          "pnl_percent": 17.883290247152523,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 31330.3471,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x329C787B163a730BD7900DF2BEb3Ff4fe4670375",
+      "fetched_at": "2026-02-09T05:09:00.581082",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 15349.945037,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xCCf135Ab352D561a15Eb7BE2A243Cc4Fcb7f0aB1",
+      "fetched_at": "2026-02-09T05:09:00.586321",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 89400.959187,
+        "total_margin_used": 76719.52548,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 23511.96,
+          "entry_price": 35.392,
+          "liquidation_price": 41.5473637728,
+          "position_value": 767195.2548,
+          "unrealized_pnl": 64940.669236,
+          "pnl_percent": 8.464685988305463,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 76719.52548,
+          "distance_to_liq_pct": 27.33,
+          "distance_to_liq_usd": 8.92,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xCeeC48581B3145a575508719f45da07dc57fA7ce",
+      "fetched_at": "2026-02-09T05:09:00.592719",
+      "has_positions": true,
+      "num_positions": 2,
+      "account_summary": {
+        "account_value": 1448409.250861,
+        "total_margin_used": 778783.85,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "SOL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 6500.0,
+          "entry_price": 84.7366,
+          "liquidation_price": null,
+          "position_value": 565877.0,
+          "unrealized_pnl": 15089.00031,
+          "pnl_percent": 2.666480579701949,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 28293.85,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HYPE",
+          "market_type": "HyperCore",
+          "direction": "SHORT",
+          "size": 115000.0,
+          "entry_price": 28.4093,
+          "liquidation_price": 42.9541393446,
+          "position_value": 3752450.0,
+          "unrealized_pnl": -485377.07224,
+          "pnl_percent": -12.934937767058855,
+          "leverage": {
+            "type": "cross",
+            "value": 5
+          },
+          "margin_used": 750490.0,
+          "distance_to_liq_pct": 31.64,
+          "distance_to_liq_usd": 10.32,
+          "risk_level": "LOW"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0x1e82e222564293e3507c2966b27f587EE2570671",
+      "fetched_at": "2026-02-09T05:09:00.605891",
+      "has_positions": false,
+      "num_positions": 0,
+      "account_summary": {
+        "account_value": 51736.728092,
+        "total_margin_used": 0.0,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [],
+      "error": null
+    },
+    {
+      "address": "0xEa6670EbdB4a388A8CFc16f6497Bf4f267B061EE",
+      "fetched_at": "2026-02-09T05:09:00.605548",
+      "has_positions": true,
+      "num_positions": 10,
+      "account_summary": {
+        "account_value": 4623616.432769,
+        "total_margin_used": 2209523.970956,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "BTC",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1e-05,
+          "entry_price": 66444.4,
+          "liquidation_price": null,
+          "position_value": 0.70828,
+          "unrealized_pnl": 0.043836,
+          "pnl_percent": 6.189077765855312,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 0.035414,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "ETH",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 1444.4444,
+          "entry_price": 2697.75,
+          "liquidation_price": null,
+          "position_value": 3009933.24072,
+          "unrealized_pnl": -886819.02664,
+          "pnl_percent": -29.463079600658048,
+          "leverage": {
+            "type": "cross",
+            "value": 20
+          },
+          "margin_used": 150496.662036,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "MAVIA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 17618328.8,
+          "entry_price": 0.05815,
+          "liquidation_price": null,
+          "position_value": 689229.022656,
+          "unrealized_pnl": -335379.337939,
+          "pnl_percent": -48.66007189404017,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 229743.007552,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HMSTR",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 6378564076.0,
+          "entry_price": 0.000228,
+          "liquidation_price": null,
+          "position_value": 1129005.841452,
+          "unrealized_pnl": -327944.838263,
+          "pnl_percent": -29.047222452032166,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 376335.280484,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "GRIFFAIN",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 51838764.0,
+          "entry_price": 0.015984,
+          "liquidation_price": null,
+          "position_value": 488528.511936,
+          "unrealized_pnl": -340088.851963,
+          "pnl_percent": -69.61494440012409,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 162842.837312,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "VVV",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 2813.41,
+          "entry_price": 1.8994,
+          "liquidation_price": null,
+          "position_value": 5216.343481,
+          "unrealized_pnl": -127.529618,
+          "pnl_percent": -2.4448086761255974,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 1738.78116,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "XPL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 13612081.0,
+          "entry_price": 0.139506,
+          "liquidation_price": null,
+          "position_value": 1128060.376632,
+          "unrealized_pnl": -770915.204551,
+          "pnl_percent": -68.33988858403904,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 112806.037663,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "STBL",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 27070663.0,
+          "entry_price": 0.0555,
+          "liquidation_price": null,
+          "position_value": 1057136.460813,
+          "unrealized_pnl": -445285.335687,
+          "pnl_percent": -42.12184066989321,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 352378.820271,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "HEMI",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 60077664.0,
+          "entry_price": 0.014201,
+          "liquidation_price": null,
+          "position_value": 715524.97824,
+          "unrealized_pnl": -137654.814018,
+          "pnl_percent": -19.238296104853532,
+          "leverage": {
+            "type": "cross",
+            "value": 3
+          },
+          "margin_used": 238508.32608,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        },
+        {
+          "coin": "MEGA",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 2407815.0,
+          "entry_price": 0.151189,
+          "liquidation_price": null,
+          "position_value": 339766.77465,
+          "unrealized_pnl": -24269.414279,
+          "pnl_percent": -7.142962787930153,
+          "leverage": {
+            "type": "isolated",
+            "value": 3,
+            "rawUsd": "244907.408334"
+          },
+          "margin_used": 584674.182984,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    },
+    {
+      "address": "0xC86DDE53FfA0CCBff8adb0529E0304b0dE1B0E8f",
+      "fetched_at": "2026-02-09T05:09:00.642157",
+      "has_positions": true,
+      "num_positions": 1,
+      "account_summary": {
+        "account_value": 30328.10613,
+        "total_margin_used": 2047.743441,
+        "total_unrealized_pnl": 0,
+        "total_position_value": 0
+      },
+      "positions": [
+        {
+          "coin": "FARTCOIN",
+          "market_type": "HyperCore",
+          "direction": "LONG",
+          "size": 104492.7,
+          "entry_price": 0.171,
+          "liquidation_price": null,
+          "position_value": 20477.434419,
+          "unrealized_pnl": 2609.182719,
+          "pnl_percent": 12.74174618564066,
+          "leverage": {
+            "type": "cross",
+            "value": 10
+          },
+          "margin_used": 2047.743441,
+          "distance_to_liq_pct": null,
+          "distance_to_liq_usd": null,
+          "risk_level": "UNKNOWN"
+        }
+      ],
+      "error": null
+    }
+  ]
+}

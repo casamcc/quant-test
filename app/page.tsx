@@ -1,13 +1,19 @@
 'use client';
 
 import React, { useState, useMemo } from 'react';
-import { LayoutDashboard, Database, BarChart3, Clock, AlertTriangle } from 'lucide-react';
+import { LayoutDashboard, Database, BarChart3, Clock, AlertTriangle, Users, Target } from 'lucide-react';
 import { INDICATORS_DATA } from '@/constants/indicators';
 import { IndicatorData } from '@/types';
 import { PhaseCard } from '@/components/PhaseCard';
 import { SummarySection } from '@/components/SummarySection';
+import { BasedAppPositions } from '@/components/BasedAppPositions';
+import { MirrorlyPositions } from '@/components/MirrorlyPositions';
 import { loadWeights, saveWeight, loadDeletedIndicators, saveDeletedIndicator } from '@/lib/weightStorage';
 import clsx from 'clsx';
+import basedAppPositionsData20251210 from '@/app/data/basedapp_positions_summary_20251210.json';
+import basedAppPositionsData20251208 from '@/app/data/basedapp_positions_summary_20251208.json';
+import mirrorlyData20260209 from '@/app/data/mirrorly_summary_20260209.json';
+import { PositionSummary, MirrorldySummary } from '@/types';
 
 export default function Home() {
     // Load indicators with saved weights on mount, filtering out deleted ones
@@ -80,6 +86,10 @@ export default function Home() {
         { id: 'STAY RISK-OFF (Wait)', shortTitle: 'Wait', icon: Database },
     ];
 
+    // Position tabs
+    const BASEDAPP_TAB = 'BASEDAPP_POSITIONS';
+    const MIRRORLY_TAB = 'MIRRORLY_POSITIONS';
+
     return (
         <div className="min-h-screen text-gray-900 p-4 md:p-12 font-sans selection:bg-[#2383e2] selection:text-white">
             {/* Header - Notion Page Title Style */}
@@ -122,6 +132,32 @@ export default function Home() {
                         Board Summary
                     </button>
                     <div className="w-px h-4 bg-gray-200 mx-1"></div>
+                    <button
+                        onClick={() => setActiveTab(BASEDAPP_TAB)}
+                        className={clsx(
+                            "px-3 py-2 text-sm font-medium flex items-center gap-2 transition-all border-b-2 whitespace-nowrap",
+                            activeTab === BASEDAPP_TAB
+                                ? "text-gray-900 border-gray-900"
+                                : "text-gray-500 border-transparent hover:text-gray-700 hover:bg-gray-100 rounded-t"
+                        )}
+                    >
+                        <Users className="w-4 h-4" />
+                        BasedApp Positions
+                    </button>
+                    <div className="w-px h-4 bg-gray-200 mx-1"></div>
+                    <button
+                        onClick={() => setActiveTab(MIRRORLY_TAB)}
+                        className={clsx(
+                            "px-3 py-2 text-sm font-medium flex items-center gap-2 transition-all border-b-2 whitespace-nowrap",
+                            activeTab === MIRRORLY_TAB
+                                ? "text-gray-900 border-gray-900"
+                                : "text-gray-500 border-transparent hover:text-gray-700 hover:bg-gray-100 rounded-t"
+                        )}
+                    >
+                        <Target className="w-4 h-4" />
+                        Mirrorly Traders
+                    </button>
+                    <div className="w-px h-4 bg-gray-200 mx-1"></div>
                     {phases.map(phase => (
                         <button
                             key={phase.id}
@@ -148,6 +184,19 @@ export default function Home() {
                         <SummarySection
                             scores={scores}
                             indicators={indicators}
+                        />
+                    ) : activeTab === BASEDAPP_TAB ? (
+                        <BasedAppPositions 
+                            datasets={[
+                                { label: 'Dec 10', date: '20251210', data: basedAppPositionsData20251210 as PositionSummary },
+                                { label: 'Dec 8', date: '20251208', data: basedAppPositionsData20251208 as PositionSummary },
+                            ]}
+                        />
+                    ) : activeTab === MIRRORLY_TAB ? (
+                        <MirrorlyPositions 
+                            datasets={[
+                                { label: 'Feb 9', date: '20260209', data: mirrorlyData20260209 as MirrorldySummary },
+                            ]}
                         />
                     ) : (
                         phases.filter(p => p.id === activeTab).map(phaseConfig => {

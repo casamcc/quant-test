@@ -527,3 +527,14 @@ displayUserPositions('0x7da85a334e43a6b1c2c0da9623409d9ee9047747');
 
 **Key Insight:** HIP-3 positions require the `"dex"` parameter - this is the critical discovery!
 
+
+
+
+
+
+
+
+
+
+
+

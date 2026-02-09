@@ -1,0 +1,2728 @@
+{
+  "generated_at": "2026-02-09T07:31:40.161045",
+  "fetch_date": "20260209",
+  "fetched_at": "2026-02-09T05:08:58.201401",
+  "summary": {
+    "total_traders": 66,
+    "traders_with_positions": 46,
+    "total_positions": 171,
+    "category_counts": {
+      "Winning Streak": 35,
+      "Veteran": 33,
+      "Consistent Winner": 22,
+      "Heavy Drawdown": 16,
+      "Whale": 12,
+      "Negative Pnl": 9,
+      "God Tier": 8,
+      "New": 5,
+      "Twitter KOL": 3,
+      "Bad KOL": 3,
+      "Consistent": 2,
+      "Vault": 1
+    }
+  },
+  "traders": [
+    {
+      "name": "Venom Gibbon",
+      "address": "0x9e8b1e51c642f4C8b87c6BA11c53D516a218Afc4",
+      "categories": [
+        "God Tier"
+      ],
+      "win_rate": 39.9,
+      "wins": 144,
+      "losses": 244,
+      "total_profit": 13844000.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 0.0,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Nitro Antelope",
+      "address": "0x015354106478Dda69C4aAe3C0Cf801290b738052",
+      "categories": [
+        "God Tier"
+      ],
+      "win_rate": 53.2,
+      "wins": 14,
+      "losses": 6,
+      "total_profit": 7450000.0,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 9588114.570361,
+      "unrealized_pnl": -526838.9403159999,
+      "top_coins": [
+        "BTC",
+        "XPL"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Flame Pony",
+      "address": "0xe0665019FcF5fFa4A5aEa5CF65F84016fCbE78Da",
+      "categories": [
+        "Whale",
+        "Consistent Winner"
+      ],
+      "win_rate": 79.8,
+      "wins": 214,
+      "losses": 58,
+      "total_profit": 5736871.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 26957.089865,
+      "unrealized_pnl": 212.01246,
+      "top_coins": [
+        "BTC"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "CLCat",
+      "address": "0xcb58B8f5EC6D47985f0728465C25a08EF9Ad2C7B",
+      "categories": [
+        "Twitter KOL"
+      ],
+      "win_rate": 44.2,
+      "wins": 301,
+      "losses": 409,
+      "total_profit": 974281.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 1200879.138878,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "CryptoNexus",
+      "address": "0xadD12ADBbD5Db87674b38Af99b6dD34Dd2A45e0d",
+      "categories": [
+        "Twitter KOL"
+      ],
+      "win_rate": 49.8,
+      "wins": 357,
+      "losses": 394,
+      "total_profit": 843123.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 1059781.42476,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Fierce Cicada",
+      "address": "0xCCf135Ab352D561a15Eb7BE2A243Cc4Fcb7f0aB1",
+      "categories": [
+        "Veteran",
+        "Whale"
+      ],
+      "win_rate": 54.5,
+      "wins": 36,
+      "losses": 26,
+      "total_profit": 757640.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 89400.959187,
+      "unrealized_pnl": 64940.669236,
+      "top_coins": [
+        "HYPE"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "ChinaToxicFlow1",
+      "address": "0xB552648f037B4C60bA9c237bb503735aed0dB94E",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 57.4,
+      "wins": 171,
+      "losses": 141,
+      "total_profit": 520550.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 223095.079257,
+      "unrealized_pnl": -5.586192,
+      "top_coins": [
+        "GRIFFAIN"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Blood Crab",
+      "address": "0x98dad31dE2bcc79d169E72D191F753E5c708252f",
+      "categories": [
+        "Veteran",
+        "Winning Streak",
+        "Whale"
+      ],
+      "win_rate": 44.6,
+      "wins": 339,
+      "losses": 471,
+      "total_profit": 477622.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 13158.465079,
+      "unrealized_pnl": 8695.989895,
+      "top_coins": [
+        "BTC"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Bold Wildcat",
+      "address": "0xd47776750BF095AE3F0461e06CE312c2e6026e7E",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak",
+        "God Tier"
+      ],
+      "win_rate": 56.6,
+      "wins": 3161,
+      "losses": 2168,
+      "total_profit": 435266.0,
+      "has_positions": true,
+      "num_positions": 4,
+      "account_value": 27578.136258,
+      "unrealized_pnl": 808.575372,
+      "top_coins": [
+        "BERA",
+        "RESOLV",
+        "WLD"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Shadow Wallaby",
+      "address": "0x469E9A7f624b04C24f0E64EDF8d8a277e6bf58A5",
+      "categories": [
+        "Veteran",
+        "Heavy Drawdown",
+        "Winning Streak",
+        "Bad KOL"
+      ],
+      "win_rate": 70.7,
+      "wins": 281,
+      "losses": 115,
+      "total_profit": 434905.0,
+      "has_positions": true,
+      "num_positions": 6,
+      "account_value": 3225281.987493,
+      "unrealized_pnl": -2062471.6525449997,
+      "top_coins": [
+        "BTC",
+        "ETH",
+        "HYPE"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Delta_01",
+      "address": "0x3005Fade4c0dF5e1cD187D7062da359416F0Eb8E",
+      "categories": [
+        "Veteran"
+      ],
+      "win_rate": 36.1,
+      "wins": 26,
+      "losses": 46,
+      "total_profit": 382013.0,
+      "has_positions": true,
+      "num_positions": 3,
+      "account_value": 546519.783291,
+      "unrealized_pnl": -136487.82302999997,
+      "top_coins": [
+        "ETH",
+        "HYPE",
+        "LIT"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "ChinaToxicFlow2",
+      "address": "0x2C229d22B100a7BeB69122eeD721CEE9B24011dd",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 68.4,
+      "wins": 117,
+      "losses": 57,
+      "total_profit": 268270.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 219938.581438,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Stealth Rooste",
+      "address": "0xd474209f12d153CB907B1a00BcDF7b20dbc0bd39",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 52.9,
+      "wins": 1638,
+      "losses": 1727,
+      "total_profit": 264108.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 0.008495,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Hyperdash Vault #1",
+      "address": "0x4078582C42fdb547B1397FaBB5D5A4beAB81bE9E",
+      "categories": [
+        "Vault"
+      ],
+      "win_rate": 47.0,
+      "wins": 992,
+      "losses": 1084,
+      "total_profit": 215140.0,
+      "has_positions": true,
+      "num_positions": 3,
+      "account_value": 152568.488804,
+      "unrealized_pnl": -2637.943708,
+      "top_coins": [
+        "XPL",
+        "BTC",
+        "ZEC"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "jack silver",
+      "address": "0xa44898949336804325763810E731f7Aabf768250",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 72.8,
+      "wins": 91,
+      "losses": 33,
+      "total_profit": 196750.0,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 22799.595566,
+      "unrealized_pnl": 2843.72043,
+      "top_coins": [
+        "ZEC",
+        "HYPE"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Nitro Gerbil",
+      "address": "0x491251909171d4b9B39C5Bc5d70515292e21Eaf0",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 59.9,
+      "wins": 106,
+      "losses": 85,
+      "total_profit": 191255.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 22845.308863,
+      "unrealized_pnl": -20904.016268,
+      "top_coins": [
+        "BLUR"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Turbo Dalmatian",
+      "address": "0xeb83E695adCac2e83f290d2d2815FC58e6491d7A",
+      "categories": [
+        "Winning Streak"
+      ],
+      "win_rate": 61.7,
+      "wins": 183,
+      "losses": 116,
+      "total_profit": 176036.0,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 143943.091068,
+      "unrealized_pnl": -54806.10297,
+      "top_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Flash Ibis",
+      "address": "0xaE2445CDC416b6A70bbF84a8678a13EA6003E7f8",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 55.0,
+      "wins": 690,
+      "losses": 630,
+      "total_profit": 161037.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 94665.510145,
+      "unrealized_pnl": -851.17655,
+      "top_coins": [
+        "HYPE"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Steel Venom",
+      "address": "0x3979BDF742Ce46C9dCd570c70d2D6e88B87dF0E9",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 54.8,
+      "wins": 829,
+      "losses": 682,
+      "total_profit": 160213.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 23440.885455,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Steel Mastiff",
+      "address": "0x8e2e546506c1f97220AA9c557aF7cc0Fff9896E2",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 97.5,
+      "wins": 195,
+      "losses": 7,
+      "total_profit": 147316.0,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 106289.613956,
+      "unrealized_pnl": -158027.17901,
+      "top_coins": [
+        "ENA",
+        "HYPE"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "69 Jump Street",
+      "address": "0xA844d7ac9FA3424C4Fd38A25baa23e460Ec3E802",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 58.9,
+      "wins": 330,
+      "losses": 247,
+      "total_profit": 142994.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 607216.145879,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Midnight Jaguar",
+      "address": "0x0aF66f3571761D7196B713fF881609D7e7456Fe1",
+      "categories": [
+        "Winning Streak"
+      ],
+      "win_rate": 52.6,
+      "wins": 200,
+      "losses": 186,
+      "total_profit": 141391.0,
+      "has_positions": true,
+      "num_positions": 4,
+      "account_value": 114674.739642,
+      "unrealized_pnl": -3134.037274,
+      "top_coins": [
+        "HYPE",
+        "ZEC",
+        "LIT"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Swift Whale",
+      "address": "0x049345fce8AD9095a2DeC41059CfB50E9BA0bBDE",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 62.8,
+      "wins": 1651,
+      "losses": 982,
+      "total_profit": 114316.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 35045.925789,
+      "unrealized_pnl": -809.624811,
+      "top_coins": [
+        "GMT"
+      ],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Cyber Chimp",
+      "address": "0xB854F7F40f0f3E1801Fb6d8828B6f6Dd97eBF33b",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 71.1,
+      "wins": 720,
+      "losses": 320,
+      "total_profit": 103251.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 195774.637037,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Wild Wildcat",
+      "address": "0x7E09dfbbA23d078e16F038b1ED4c558185c4be1E",
+      "categories": [
+        "Veteran",
+        "Winning Streak",
+        "Consistent Winner",
+        "God Tier"
+      ],
+      "win_rate": 72.7,
+      "wins": 96,
+      "losses": 35,
+      "total_profit": 91671.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 141979.125184,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Cool Cobra",
+      "address": "0x329C787B163a730BD7900DF2BEb3Ff4fe4670375",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak",
+        "God Tier"
+      ],
+      "win_rate": 50.3,
+      "wins": 171,
+      "losses": 165,
+      "total_profit": 24129.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 15349.945037,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "strong"
+    },
+    {
+      "name": "Ghost Duck",
+      "address": "0x1e82e222564293e3507c2966b27f587EE2570671",
+      "categories": [
+        "Veteran",
+        "Negative Pnl"
+      ],
+      "win_rate": 65.9,
+      "wins": 58,
+      "losses": 30,
+      "total_profit": -7728.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 51736.728092,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Electric Pony",
+      "address": "0xC86DDE53FfA0CCBff8adb0529E0304b0dE1B0E8f",
+      "categories": [
+        "Negative Pnl",
+        "Veteran"
+      ],
+      "win_rate": 53.2,
+      "wins": 71,
+      "losses": 68,
+      "total_profit": -64634.0,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 30328.10613,
+      "unrealized_pnl": 2609.182719,
+      "top_coins": [
+        "FARTCOIN"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "gaspedal",
+      "address": "0xFF9152cce6fbd30988B1aEf70DF6F086c99E2C55",
+      "categories": [
+        "Veteran",
+        "Negative Pnl"
+      ],
+      "win_rate": 76.0,
+      "wins": 349,
+      "losses": 123,
+      "total_profit": -976155.0,
+      "has_positions": true,
+      "num_positions": 4,
+      "account_value": 175915.342482,
+      "unrealized_pnl": -30603.643647999997,
+      "top_coins": [
+        "BTC",
+        "HYPE",
+        "AAVE"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Nova Raptor",
+      "address": "0x8f8D2D2565bFB10608a7Ce64b48E2Aea7875a344",
+      "categories": [
+        "Veteran",
+        "Negative Pnl"
+      ],
+      "win_rate": 70.0,
+      "wins": 182,
+      "losses": 81,
+      "total_profit": -1011512.0,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 209754.330015,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Blazing Stag",
+      "address": "0xEa6670EbdB4a388A8CFc16f6497Bf4f267B061EE",
+      "categories": [
+        "Whale",
+        "Negative Pnl"
+      ],
+      "win_rate": 60.0,
+      "wins": 6,
+      "losses": 4,
+      "total_profit": -2905039.0,
+      "has_positions": true,
+      "num_positions": 10,
+      "account_value": 4623616.432769,
+      "unrealized_pnl": -3268484.3091219994,
+      "top_coins": [
+        "ETH",
+        "HMSTR",
+        "XPL"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "justanotherinterlude",
+      "address": "0xd8b07BC1bC3bAe553BCA5E94E99935dC12Df24Ff",
+      "categories": [
+        "Heavy Drawdown",
+        "Negative Pnl"
+      ],
+      "win_rate": 67.6,
+      "wins": 1300,
+      "losses": 593,
+      "total_profit": -2959778.0,
+      "has_positions": true,
+      "num_positions": 3,
+      "account_value": 424744.385614,
+      "unrealized_pnl": -8215.743849999999,
+      "top_coins": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Ghost Koala",
+      "address": "0xCeeC48581B3145a575508719f45da07dc57fA7ce",
+      "categories": [
+        "Negative Pnl",
+        "Veteran",
+        "Heavy Drawdown"
+      ],
+      "win_rate": 52.7,
+      "wins": 68,
+      "losses": 60,
+      "total_profit": -3923073.0,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 1448409.250861,
+      "unrealized_pnl": -470288.07193000003,
+      "top_coins": [
+        "HYPE",
+        "SOL"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Neet",
+      "address": "0x4Cb5f4d145cd16460932bBb9B871bB6Fd5dB97E3",
+      "categories": [
+        "New",
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 48.8,
+      "wins": 158,
+      "losses": 166,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 14,
+      "account_value": 2044827.919158,
+      "unrealized_pnl": -70341.803307,
+      "top_coins": [
+        "HYPE",
+        "PAXG",
+        "SKY"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Loracle",
+      "address": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
+      "categories": [
+        "Twitter KOL"
+      ],
+      "win_rate": null,
+      "wins": null,
+      "losses": null,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 5,
+      "account_value": 40690548.878257,
+      "unrealized_pnl": 11484742.398068001,
+      "top_coins": [
+        "HYPE",
+        "BTC",
+        "ETH"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Diamond Eel",
+      "address": "0x3C363e96D22C056d748F199Fb728Fc80d70e461a",
+      "categories": [
+        "New",
+        "Consistent Winner",
+        "Whale"
+      ],
+      "win_rate": 83.7,
+      "wins": 103,
+      "losses": 20,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 24099.225192,
+      "unrealized_pnl": -15429.8768,
+      "top_coins": [
+        "XRP"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Mighty Wildcat",
+      "address": "0x5AaDB434293B4E1B8Fb2e84007e567506fe65a96",
+      "categories": [
+        "New"
+      ],
+      "win_rate": null,
+      "wins": null,
+      "losses": null,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 99798.645407,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Mega Wombat",
+      "address": "0x833b99b27dAC651d02080F5e220e929Df891dB06",
+      "categories": [
+        "New",
+        "Consistent"
+      ],
+      "win_rate": 71.8,
+      "wins": null,
+      "losses": null,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 315612.396733,
+      "unrealized_pnl": 7888.2541200000005,
+      "top_coins": [
+        "BTC",
+        "BSV"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "MachiBigBrother",
+      "address": "0x020cA66C30beC2c4Fe3861a94E4DB4A498A35872",
+      "categories": [
+        "Bad KOL",
+        "Negative Pnl"
+      ],
+      "win_rate": null,
+      "wins": null,
+      "losses": null,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 465122.901748,
+      "unrealized_pnl": 69611.731672,
+      "top_coins": [
+        "ETH"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Sifu",
+      "address": "0xF967239DeBeF10DbC78E9Bbbb2d8A16B72a614eb",
+      "categories": [
+        "Bad KOL",
+        "Heavy Drawdown",
+        "Negative Pnl"
+      ],
+      "win_rate": 46.9,
+      "wins": 353,
+      "losses": 361,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 3167478.70035,
+      "unrealized_pnl": -11912.02944,
+      "top_coins": [
+        "ETH",
+        "BTC"
+      ],
+      "performance_tier": "avoid"
+    },
+    {
+      "name": "Charged Macaque",
+      "address": "0xBFc79C444c41A74516bF31237eBF586a231480b4",
+      "categories": [
+        "Veteran",
+        "Heavy Drawdown",
+        "Winning Streak"
+      ],
+      "win_rate": 59.0,
+      "wins": null,
+      "losses": null,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 7,
+      "account_value": 1875906.900744,
+      "unrealized_pnl": 1704378.8494619997,
+      "top_coins": [
+        "ETH",
+        "ATOM",
+        "TON"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Crystal Mole",
+      "address": "0xFce053a5e461683454bF37Ad66d20344c0e3F4C0",
+      "categories": [
+        "Veteran",
+        "God Tier",
+        "Heavy Drawdown",
+        "Consistent"
+      ],
+      "win_rate": 85.4,
+      "wins": null,
+      "losses": null,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 2813546.287121,
+      "unrealized_pnl": 5088856.371043,
+      "top_coins": [
+        "BTC",
+        "ETH"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Cosmic Venom",
+      "address": "0x8bAe3527E5a33fA0cf184f37Bc112D071463aB6d",
+      "categories": [
+        "Whale",
+        "Winning Streak",
+        "Consistent Winner"
+      ],
+      "win_rate": 61.7,
+      "wins": 36,
+      "losses": 24,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 3145331.597758,
+      "unrealized_pnl": 0.03667,
+      "top_coins": [
+        "GAS"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Swift Wasp",
+      "address": "0xbAAaF6571ab7d571043Ff1E313a9609A10637864",
+      "categories": [
+        "Veteran",
+        "Whale",
+        "Winning Streak",
+        "Consistent Winner"
+      ],
+      "win_rate": 89.2,
+      "wins": 126,
+      "losses": 60,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 787355.288356,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Silent Viper",
+      "address": "0x0748e296e5a350Ec36C8487a1Cea406e1B57d4b2",
+      "categories": [
+        "Veteran",
+        "Winning Streak",
+        "Heavy Drawdown"
+      ],
+      "win_rate": 52.1,
+      "wins": 159,
+      "losses": 146,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 5,
+      "account_value": 1225549.584002,
+      "unrealized_pnl": -35147.747957999985,
+      "top_coins": [
+        "PUMP",
+        "HYPE",
+        "SOL"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Wild Tamarin",
+      "address": "0xadEd86bF6e6fd72F78DCa132aF112FA36230809E",
+      "categories": [
+        "Whale"
+      ],
+      "win_rate": null,
+      "wins": null,
+      "losses": null,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 368490.02206,
+      "unrealized_pnl": -22226.59376,
+      "top_coins": [
+        "SOL"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Ghost Ocelot",
+      "address": "0xfD97600ac44B3C4e20aC1a5f23e3b18d10fa5912",
+      "categories": [
+        "Winning Streak",
+        "Whale",
+        "God Tier"
+      ],
+      "win_rate": 100.0,
+      "wins": 98,
+      "losses": 0,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 4230012.306351,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Phantom Yak",
+      "address": "0x9c2a2a966Ed8E47f0c8B7E2Ec2B91424F229F6a8",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 68.1,
+      "wins": 873,
+      "losses": 463,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 2201304.731891,
+      "unrealized_pnl": -2611.86873,
+      "top_coins": [
+        "ETH",
+        "HYPE"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Cool Komodo",
+      "address": "0x2D99FE0F36C1AEBD28a1a2C0E82E8Ca13C2EA351",
+      "categories": [
+        "Winning Streak",
+        "Whale",
+        "God Tier"
+      ],
+      "win_rate": 75.7,
+      "wins": 27,
+      "losses": 10,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 8680906.300718,
+      "unrealized_pnl": 69824.73782000001,
+      "top_coins": [
+        "BTC",
+        "HYPE"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Midnight Gator",
+      "address": "0xdBD1bac81ad581C7198C9D155cA468F32a0C29DD",
+      "categories": [
+        "Heavy Drawdown"
+      ],
+      "win_rate": 42.9,
+      "wins": 6,
+      "losses": 8,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 1376775.500021,
+      "unrealized_pnl": 619257.0409539999,
+      "top_coins": [
+        "ETH",
+        "BNB"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Crystal Tasmanian",
+      "address": "0xa4deddA59F2908b92AE192cfD494839373bCB3C4",
+      "categories": [
+        "Veteran",
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 39.5,
+      "wins": 153,
+      "losses": 223,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 0.0,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "RTB2",
+      "address": "0xFB941d2344b72ea9101400392b818173772d0DDF",
+      "categories": [
+        "Veteran"
+      ],
+      "win_rate": 52.9,
+      "wins": 18,
+      "losses": 16,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 1269479.518919,
+      "unrealized_pnl": -1035854.306966,
+      "top_coins": [
+        "HYPE"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Blazing Specter\n",
+      "address": "0xF00bB08F7D1d04A9415408C939c02410fc6791B1",
+      "categories": [
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 70.9,
+      "wins": 163,
+      "losses": 74,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 3,
+      "account_value": 1546323.509566,
+      "unrealized_pnl": 69792.79958699999,
+      "top_coins": [
+        "ETH",
+        "BTC",
+        "HYPE"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Cool Russell",
+      "address": "0x3BcAE23e8c380Dab4732e9A159c0456F12d866F3",
+      "categories": [
+        "Veteran",
+        "Consistent Winner",
+        "Winning Streak",
+        "Whale",
+        "Heavy Drawdown"
+      ],
+      "win_rate": 65.6,
+      "wins": 3097,
+      "losses": 1568,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 5,
+      "account_value": 5643088.754098,
+      "unrealized_pnl": 36756.956955,
+      "top_coins": [
+        "BTC",
+        "ETH",
+        "HYPE"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Nitro Hawk",
+      "address": "0xD6E1a6f7bb47ACA69aaA511210227d40926ff256",
+      "categories": [
+        "Heavy Drawdown",
+        "Veteran"
+      ],
+      "win_rate": 44.8,
+      "wins": 753,
+      "losses": 533,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 8,
+      "account_value": 702133.015175,
+      "unrealized_pnl": 157735.41585000002,
+      "top_coins": [
+        "ETH",
+        "DOGE",
+        "ADA"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Alpha Pelican\n\n",
+      "address": "0x8bCF7a888C66f635Ac4A2CAf42A8Dd12A3b20B14",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 56.0,
+      "wins": 467,
+      "losses": 399,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 2746907.930584,
+      "unrealized_pnl": 94445.05399,
+      "top_coins": [
+        "HYPE",
+        "BTC"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Blood Trout",
+      "address": "0xb919448d2F1797E5D9E7b9e88cD909A5089E6d4E",
+      "categories": [
+        "Veteran",
+        "Consistent Winner",
+        "Heavy Drawdown"
+      ],
+      "win_rate": 62.0,
+      "wins": 268,
+      "losses": 150,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 385394.926349,
+      "unrealized_pnl": 55709.618536,
+      "top_coins": [
+        "BTC",
+        "HYPE"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "u guys r rly dum\n\n",
+      "address": "0x987163B6b482C30c2F5f3aa2760109668Eb0091d",
+      "categories": [
+        "Veteran",
+        "Consistent Winner",
+        "Heavy Drawdown"
+      ],
+      "win_rate": 57.8,
+      "wins": 510,
+      "losses": 322,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 672181.734996,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Growi HF",
+      "address": "0x1e37a337Ed460039D1B15Bd3bC489DE789768D5e",
+      "categories": [
+        "Veteran",
+        "Consistent Winner",
+        "Heavy Drawdown"
+      ],
+      "win_rate": 54.1,
+      "wins": 969,
+      "losses": 380,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 19,
+      "account_value": 6924247.995004,
+      "unrealized_pnl": -70898.775338,
+      "top_coins": [
+        "BNB",
+        "CRV",
+        "DOT"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Elsewhere",
+      "address": "0x8fC7c0442e582bca195978C5a4FDeC2e7C5bB0f7",
+      "categories": [
+        "Veteran",
+        "Heavy Drawdown",
+        "Winning Streak"
+      ],
+      "win_rate": 62.9,
+      "wins": 505,
+      "losses": 289,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 2,
+      "account_value": 506743.233644,
+      "unrealized_pnl": -42156.634078,
+      "top_coins": [
+        "LIT",
+        "XPL"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Shadow Zebra",
+      "address": "0x7f55Bd494bed4b4eED2064ECCC1aF75e9d76aD4b",
+      "categories": [
+        "New"
+      ],
+      "win_rate": 52.0,
+      "wins": 12,
+      "losses": 13,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 80000.103166,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Hyper Giraffe",
+      "address": "0xE867fbDAD3291530E41530301EcB77693850C78e",
+      "categories": [
+        "Veteran",
+        "Winning Streak",
+        "Whale"
+      ],
+      "win_rate": 69.5,
+      "wins": 236,
+      "losses": 108,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 3847945.12268,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Prime Alpaca",
+      "address": "0x1E771e1b95c86491299D6E2A5C3b3842D03b552E",
+      "categories": [
+        "Veteran",
+        "Consistent Winner",
+        "Heavy Drawdown"
+      ],
+      "win_rate": 66.7,
+      "wins": 57,
+      "losses": 30,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 7,
+      "account_value": 3235822.251228,
+      "unrealized_pnl": -469008.83064800006,
+      "top_coins": [
+        "HYPE",
+        "ETH",
+        "XPL"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "lofi.eth",
+      "address": "0x3c37DC9b5D4c60d404EC834987C106510d03442F",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 81.5,
+      "wins": 361,
+      "losses": 81,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 1,
+      "account_value": 324353.054429,
+      "unrealized_pnl": -152.612495,
+      "top_coins": [
+        "MELANIA"
+      ],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Icy9999",
+      "address": "0x8434b7844Fd17fAD52f0aCEae50a834Cd4896577",
+      "categories": [
+        "Consistent Winner",
+        "Winning Streak"
+      ],
+      "win_rate": 71.5,
+      "wins": 196,
+      "losses": 70,
+      "total_profit": null,
+      "has_positions": false,
+      "num_positions": 0,
+      "account_value": 162236.290784,
+      "unrealized_pnl": 0,
+      "top_coins": [],
+      "performance_tier": "watch"
+    },
+    {
+      "name": "Elite Tamarin",
+      "address": "0x4F2b5981D89A1C60Bc73eA23edef2797447B3C17",
+      "categories": [
+        "Heavy Drawdown",
+        "Veteran",
+        "Winning Streak"
+      ],
+      "win_rate": 58.3,
+      "wins": 147,
+      "losses": 95,
+      "total_profit": null,
+      "has_positions": true,
+      "num_positions": 19,
+      "account_value": 386247.311472,
+      "unrealized_pnl": -88642.98528299999,
+      "top_coins": [
+        "HYPE",
+        "ADA",
+        "ZEC"
+      ],
+      "performance_tier": "watch"
+    }
+  ],
+  "by_performance_tier": {
+    "strong": [
+      {
+        "name": "Nitro Antelope",
+        "address": "0x015354106478Dda69C4aAe3C0Cf801290b738052",
+        "categories": [
+          "God Tier"
+        ],
+        "win_rate": 53.2,
+        "wins": 14,
+        "losses": 6,
+        "total_profit": 7450000.0,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 9588114.570361,
+        "unrealized_pnl": -526838.9403159999,
+        "top_coins": [
+          "BTC",
+          "XPL"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Flame Pony",
+        "address": "0xe0665019FcF5fFa4A5aEa5CF65F84016fCbE78Da",
+        "categories": [
+          "Whale",
+          "Consistent Winner"
+        ],
+        "win_rate": 79.8,
+        "wins": 214,
+        "losses": 58,
+        "total_profit": 5736871.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 26957.089865,
+        "unrealized_pnl": 212.01246,
+        "top_coins": [
+          "BTC"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "ChinaToxicFlow1",
+        "address": "0xB552648f037B4C60bA9c237bb503735aed0dB94E",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 57.4,
+        "wins": 171,
+        "losses": 141,
+        "total_profit": 520550.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 223095.079257,
+        "unrealized_pnl": -5.586192,
+        "top_coins": [
+          "GRIFFAIN"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Bold Wildcat",
+        "address": "0xd47776750BF095AE3F0461e06CE312c2e6026e7E",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak",
+          "God Tier"
+        ],
+        "win_rate": 56.6,
+        "wins": 3161,
+        "losses": 2168,
+        "total_profit": 435266.0,
+        "has_positions": true,
+        "num_positions": 4,
+        "account_value": 27578.136258,
+        "unrealized_pnl": 808.575372,
+        "top_coins": [
+          "BERA",
+          "RESOLV",
+          "WLD"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "ChinaToxicFlow2",
+        "address": "0x2C229d22B100a7BeB69122eeD721CEE9B24011dd",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 68.4,
+        "wins": 117,
+        "losses": 57,
+        "total_profit": 268270.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 219938.581438,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Stealth Rooste",
+        "address": "0xd474209f12d153CB907B1a00BcDF7b20dbc0bd39",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 52.9,
+        "wins": 1638,
+        "losses": 1727,
+        "total_profit": 264108.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 0.008495,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "jack silver",
+        "address": "0xa44898949336804325763810E731f7Aabf768250",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 72.8,
+        "wins": 91,
+        "losses": 33,
+        "total_profit": 196750.0,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 22799.595566,
+        "unrealized_pnl": 2843.72043,
+        "top_coins": [
+          "ZEC",
+          "HYPE"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Nitro Gerbil",
+        "address": "0x491251909171d4b9B39C5Bc5d70515292e21Eaf0",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 59.9,
+        "wins": 106,
+        "losses": 85,
+        "total_profit": 191255.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 22845.308863,
+        "unrealized_pnl": -20904.016268,
+        "top_coins": [
+          "BLUR"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Turbo Dalmatian",
+        "address": "0xeb83E695adCac2e83f290d2d2815FC58e6491d7A",
+        "categories": [
+          "Winning Streak"
+        ],
+        "win_rate": 61.7,
+        "wins": 183,
+        "losses": 116,
+        "total_profit": 176036.0,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 143943.091068,
+        "unrealized_pnl": -54806.10297,
+        "top_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Flash Ibis",
+        "address": "0xaE2445CDC416b6A70bbF84a8678a13EA6003E7f8",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 55.0,
+        "wins": 690,
+        "losses": 630,
+        "total_profit": 161037.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 94665.510145,
+        "unrealized_pnl": -851.17655,
+        "top_coins": [
+          "HYPE"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Steel Venom",
+        "address": "0x3979BDF742Ce46C9dCd570c70d2D6e88B87dF0E9",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 54.8,
+        "wins": 829,
+        "losses": 682,
+        "total_profit": 160213.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 23440.885455,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Steel Mastiff",
+        "address": "0x8e2e546506c1f97220AA9c557aF7cc0Fff9896E2",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 97.5,
+        "wins": 195,
+        "losses": 7,
+        "total_profit": 147316.0,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 106289.613956,
+        "unrealized_pnl": -158027.17901,
+        "top_coins": [
+          "ENA",
+          "HYPE"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "69 Jump Street",
+        "address": "0xA844d7ac9FA3424C4Fd38A25baa23e460Ec3E802",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 58.9,
+        "wins": 330,
+        "losses": 247,
+        "total_profit": 142994.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 607216.145879,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Midnight Jaguar",
+        "address": "0x0aF66f3571761D7196B713fF881609D7e7456Fe1",
+        "categories": [
+          "Winning Streak"
+        ],
+        "win_rate": 52.6,
+        "wins": 200,
+        "losses": 186,
+        "total_profit": 141391.0,
+        "has_positions": true,
+        "num_positions": 4,
+        "account_value": 114674.739642,
+        "unrealized_pnl": -3134.037274,
+        "top_coins": [
+          "HYPE",
+          "ZEC",
+          "LIT"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Swift Whale",
+        "address": "0x049345fce8AD9095a2DeC41059CfB50E9BA0bBDE",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 62.8,
+        "wins": 1651,
+        "losses": 982,
+        "total_profit": 114316.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 35045.925789,
+        "unrealized_pnl": -809.624811,
+        "top_coins": [
+          "GMT"
+        ],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Cyber Chimp",
+        "address": "0xB854F7F40f0f3E1801Fb6d8828B6f6Dd97eBF33b",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 71.1,
+        "wins": 720,
+        "losses": 320,
+        "total_profit": 103251.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 195774.637037,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Wild Wildcat",
+        "address": "0x7E09dfbbA23d078e16F038b1ED4c558185c4be1E",
+        "categories": [
+          "Veteran",
+          "Winning Streak",
+          "Consistent Winner",
+          "God Tier"
+        ],
+        "win_rate": 72.7,
+        "wins": 96,
+        "losses": 35,
+        "total_profit": 91671.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 141979.125184,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "strong"
+      },
+      {
+        "name": "Cool Cobra",
+        "address": "0x329C787B163a730BD7900DF2BEb3Ff4fe4670375",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak",
+          "God Tier"
+        ],
+        "win_rate": 50.3,
+        "wins": 171,
+        "losses": 165,
+        "total_profit": 24129.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 15349.945037,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "strong"
+      }
+    ],
+    "watch": [
+      {
+        "name": "Venom Gibbon",
+        "address": "0x9e8b1e51c642f4C8b87c6BA11c53D516a218Afc4",
+        "categories": [
+          "God Tier"
+        ],
+        "win_rate": 39.9,
+        "wins": 144,
+        "losses": 244,
+        "total_profit": 13844000.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 0.0,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "CLCat",
+        "address": "0xcb58B8f5EC6D47985f0728465C25a08EF9Ad2C7B",
+        "categories": [
+          "Twitter KOL"
+        ],
+        "win_rate": 44.2,
+        "wins": 301,
+        "losses": 409,
+        "total_profit": 974281.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 1200879.138878,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "CryptoNexus",
+        "address": "0xadD12ADBbD5Db87674b38Af99b6dD34Dd2A45e0d",
+        "categories": [
+          "Twitter KOL"
+        ],
+        "win_rate": 49.8,
+        "wins": 357,
+        "losses": 394,
+        "total_profit": 843123.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 1059781.42476,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Fierce Cicada",
+        "address": "0xCCf135Ab352D561a15Eb7BE2A243Cc4Fcb7f0aB1",
+        "categories": [
+          "Veteran",
+          "Whale"
+        ],
+        "win_rate": 54.5,
+        "wins": 36,
+        "losses": 26,
+        "total_profit": 757640.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 89400.959187,
+        "unrealized_pnl": 64940.669236,
+        "top_coins": [
+          "HYPE"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Blood Crab",
+        "address": "0x98dad31dE2bcc79d169E72D191F753E5c708252f",
+        "categories": [
+          "Veteran",
+          "Winning Streak",
+          "Whale"
+        ],
+        "win_rate": 44.6,
+        "wins": 339,
+        "losses": 471,
+        "total_profit": 477622.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 13158.465079,
+        "unrealized_pnl": 8695.989895,
+        "top_coins": [
+          "BTC"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Delta_01",
+        "address": "0x3005Fade4c0dF5e1cD187D7062da359416F0Eb8E",
+        "categories": [
+          "Veteran"
+        ],
+        "win_rate": 36.1,
+        "wins": 26,
+        "losses": 46,
+        "total_profit": 382013.0,
+        "has_positions": true,
+        "num_positions": 3,
+        "account_value": 546519.783291,
+        "unrealized_pnl": -136487.82302999997,
+        "top_coins": [
+          "ETH",
+          "HYPE",
+          "LIT"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Hyperdash Vault #1",
+        "address": "0x4078582C42fdb547B1397FaBB5D5A4beAB81bE9E",
+        "categories": [
+          "Vault"
+        ],
+        "win_rate": 47.0,
+        "wins": 992,
+        "losses": 1084,
+        "total_profit": 215140.0,
+        "has_positions": true,
+        "num_positions": 3,
+        "account_value": 152568.488804,
+        "unrealized_pnl": -2637.943708,
+        "top_coins": [
+          "XPL",
+          "BTC",
+          "ZEC"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Neet",
+        "address": "0x4Cb5f4d145cd16460932bBb9B871bB6Fd5dB97E3",
+        "categories": [
+          "New",
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 48.8,
+        "wins": 158,
+        "losses": 166,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 14,
+        "account_value": 2044827.919158,
+        "unrealized_pnl": -70341.803307,
+        "top_coins": [
+          "HYPE",
+          "PAXG",
+          "SKY"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Loracle",
+        "address": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
+        "categories": [
+          "Twitter KOL"
+        ],
+        "win_rate": null,
+        "wins": null,
+        "losses": null,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 5,
+        "account_value": 40690548.878257,
+        "unrealized_pnl": 11484742.398068001,
+        "top_coins": [
+          "HYPE",
+          "BTC",
+          "ETH"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Diamond Eel",
+        "address": "0x3C363e96D22C056d748F199Fb728Fc80d70e461a",
+        "categories": [
+          "New",
+          "Consistent Winner",
+          "Whale"
+        ],
+        "win_rate": 83.7,
+        "wins": 103,
+        "losses": 20,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 24099.225192,
+        "unrealized_pnl": -15429.8768,
+        "top_coins": [
+          "XRP"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Mighty Wildcat",
+        "address": "0x5AaDB434293B4E1B8Fb2e84007e567506fe65a96",
+        "categories": [
+          "New"
+        ],
+        "win_rate": null,
+        "wins": null,
+        "losses": null,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 99798.645407,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Mega Wombat",
+        "address": "0x833b99b27dAC651d02080F5e220e929Df891dB06",
+        "categories": [
+          "New",
+          "Consistent"
+        ],
+        "win_rate": 71.8,
+        "wins": null,
+        "losses": null,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 315612.396733,
+        "unrealized_pnl": 7888.2541200000005,
+        "top_coins": [
+          "BTC",
+          "BSV"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Charged Macaque",
+        "address": "0xBFc79C444c41A74516bF31237eBF586a231480b4",
+        "categories": [
+          "Veteran",
+          "Heavy Drawdown",
+          "Winning Streak"
+        ],
+        "win_rate": 59.0,
+        "wins": null,
+        "losses": null,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 7,
+        "account_value": 1875906.900744,
+        "unrealized_pnl": 1704378.8494619997,
+        "top_coins": [
+          "ETH",
+          "ATOM",
+          "TON"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Crystal Mole",
+        "address": "0xFce053a5e461683454bF37Ad66d20344c0e3F4C0",
+        "categories": [
+          "Veteran",
+          "God Tier",
+          "Heavy Drawdown",
+          "Consistent"
+        ],
+        "win_rate": 85.4,
+        "wins": null,
+        "losses": null,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 2813546.287121,
+        "unrealized_pnl": 5088856.371043,
+        "top_coins": [
+          "BTC",
+          "ETH"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Cosmic Venom",
+        "address": "0x8bAe3527E5a33fA0cf184f37Bc112D071463aB6d",
+        "categories": [
+          "Whale",
+          "Winning Streak",
+          "Consistent Winner"
+        ],
+        "win_rate": 61.7,
+        "wins": 36,
+        "losses": 24,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 3145331.597758,
+        "unrealized_pnl": 0.03667,
+        "top_coins": [
+          "GAS"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Swift Wasp",
+        "address": "0xbAAaF6571ab7d571043Ff1E313a9609A10637864",
+        "categories": [
+          "Veteran",
+          "Whale",
+          "Winning Streak",
+          "Consistent Winner"
+        ],
+        "win_rate": 89.2,
+        "wins": 126,
+        "losses": 60,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 787355.288356,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Silent Viper",
+        "address": "0x0748e296e5a350Ec36C8487a1Cea406e1B57d4b2",
+        "categories": [
+          "Veteran",
+          "Winning Streak",
+          "Heavy Drawdown"
+        ],
+        "win_rate": 52.1,
+        "wins": 159,
+        "losses": 146,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 5,
+        "account_value": 1225549.584002,
+        "unrealized_pnl": -35147.747957999985,
+        "top_coins": [
+          "PUMP",
+          "HYPE",
+          "SOL"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Wild Tamarin",
+        "address": "0xadEd86bF6e6fd72F78DCa132aF112FA36230809E",
+        "categories": [
+          "Whale"
+        ],
+        "win_rate": null,
+        "wins": null,
+        "losses": null,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 368490.02206,
+        "unrealized_pnl": -22226.59376,
+        "top_coins": [
+          "SOL"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Ghost Ocelot",
+        "address": "0xfD97600ac44B3C4e20aC1a5f23e3b18d10fa5912",
+        "categories": [
+          "Winning Streak",
+          "Whale",
+          "God Tier"
+        ],
+        "win_rate": 100.0,
+        "wins": 98,
+        "losses": 0,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 4230012.306351,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Phantom Yak",
+        "address": "0x9c2a2a966Ed8E47f0c8B7E2Ec2B91424F229F6a8",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 68.1,
+        "wins": 873,
+        "losses": 463,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 2201304.731891,
+        "unrealized_pnl": -2611.86873,
+        "top_coins": [
+          "ETH",
+          "HYPE"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Cool Komodo",
+        "address": "0x2D99FE0F36C1AEBD28a1a2C0E82E8Ca13C2EA351",
+        "categories": [
+          "Winning Streak",
+          "Whale",
+          "God Tier"
+        ],
+        "win_rate": 75.7,
+        "wins": 27,
+        "losses": 10,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 8680906.300718,
+        "unrealized_pnl": 69824.73782000001,
+        "top_coins": [
+          "BTC",
+          "HYPE"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Midnight Gator",
+        "address": "0xdBD1bac81ad581C7198C9D155cA468F32a0C29DD",
+        "categories": [
+          "Heavy Drawdown"
+        ],
+        "win_rate": 42.9,
+        "wins": 6,
+        "losses": 8,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 1376775.500021,
+        "unrealized_pnl": 619257.0409539999,
+        "top_coins": [
+          "ETH",
+          "BNB"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Crystal Tasmanian",
+        "address": "0xa4deddA59F2908b92AE192cfD494839373bCB3C4",
+        "categories": [
+          "Veteran",
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 39.5,
+        "wins": 153,
+        "losses": 223,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 0.0,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "RTB2",
+        "address": "0xFB941d2344b72ea9101400392b818173772d0DDF",
+        "categories": [
+          "Veteran"
+        ],
+        "win_rate": 52.9,
+        "wins": 18,
+        "losses": 16,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 1269479.518919,
+        "unrealized_pnl": -1035854.306966,
+        "top_coins": [
+          "HYPE"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Blazing Specter\n",
+        "address": "0xF00bB08F7D1d04A9415408C939c02410fc6791B1",
+        "categories": [
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 70.9,
+        "wins": 163,
+        "losses": 74,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 3,
+        "account_value": 1546323.509566,
+        "unrealized_pnl": 69792.79958699999,
+        "top_coins": [
+          "ETH",
+          "BTC",
+          "HYPE"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Cool Russell",
+        "address": "0x3BcAE23e8c380Dab4732e9A159c0456F12d866F3",
+        "categories": [
+          "Veteran",
+          "Consistent Winner",
+          "Winning Streak",
+          "Whale",
+          "Heavy Drawdown"
+        ],
+        "win_rate": 65.6,
+        "wins": 3097,
+        "losses": 1568,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 5,
+        "account_value": 5643088.754098,
+        "unrealized_pnl": 36756.956955,
+        "top_coins": [
+          "BTC",
+          "ETH",
+          "HYPE"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Nitro Hawk",
+        "address": "0xD6E1a6f7bb47ACA69aaA511210227d40926ff256",
+        "categories": [
+          "Heavy Drawdown",
+          "Veteran"
+        ],
+        "win_rate": 44.8,
+        "wins": 753,
+        "losses": 533,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 8,
+        "account_value": 702133.015175,
+        "unrealized_pnl": 157735.41585000002,
+        "top_coins": [
+          "ETH",
+          "DOGE",
+          "ADA"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Alpha Pelican\n\n",
+        "address": "0x8bCF7a888C66f635Ac4A2CAf42A8Dd12A3b20B14",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 56.0,
+        "wins": 467,
+        "losses": 399,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 2746907.930584,
+        "unrealized_pnl": 94445.05399,
+        "top_coins": [
+          "HYPE",
+          "BTC"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Blood Trout",
+        "address": "0xb919448d2F1797E5D9E7b9e88cD909A5089E6d4E",
+        "categories": [
+          "Veteran",
+          "Consistent Winner",
+          "Heavy Drawdown"
+        ],
+        "win_rate": 62.0,
+        "wins": 268,
+        "losses": 150,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 385394.926349,
+        "unrealized_pnl": 55709.618536,
+        "top_coins": [
+          "BTC",
+          "HYPE"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "u guys r rly dum\n\n",
+        "address": "0x987163B6b482C30c2F5f3aa2760109668Eb0091d",
+        "categories": [
+          "Veteran",
+          "Consistent Winner",
+          "Heavy Drawdown"
+        ],
+        "win_rate": 57.8,
+        "wins": 510,
+        "losses": 322,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 672181.734996,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Growi HF",
+        "address": "0x1e37a337Ed460039D1B15Bd3bC489DE789768D5e",
+        "categories": [
+          "Veteran",
+          "Consistent Winner",
+          "Heavy Drawdown"
+        ],
+        "win_rate": 54.1,
+        "wins": 969,
+        "losses": 380,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 19,
+        "account_value": 6924247.995004,
+        "unrealized_pnl": -70898.775338,
+        "top_coins": [
+          "BNB",
+          "CRV",
+          "DOT"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Elsewhere",
+        "address": "0x8fC7c0442e582bca195978C5a4FDeC2e7C5bB0f7",
+        "categories": [
+          "Veteran",
+          "Heavy Drawdown",
+          "Winning Streak"
+        ],
+        "win_rate": 62.9,
+        "wins": 505,
+        "losses": 289,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 506743.233644,
+        "unrealized_pnl": -42156.634078,
+        "top_coins": [
+          "LIT",
+          "XPL"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Shadow Zebra",
+        "address": "0x7f55Bd494bed4b4eED2064ECCC1aF75e9d76aD4b",
+        "categories": [
+          "New"
+        ],
+        "win_rate": 52.0,
+        "wins": 12,
+        "losses": 13,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 80000.103166,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Hyper Giraffe",
+        "address": "0xE867fbDAD3291530E41530301EcB77693850C78e",
+        "categories": [
+          "Veteran",
+          "Winning Streak",
+          "Whale"
+        ],
+        "win_rate": 69.5,
+        "wins": 236,
+        "losses": 108,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 3847945.12268,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Prime Alpaca",
+        "address": "0x1E771e1b95c86491299D6E2A5C3b3842D03b552E",
+        "categories": [
+          "Veteran",
+          "Consistent Winner",
+          "Heavy Drawdown"
+        ],
+        "win_rate": 66.7,
+        "wins": 57,
+        "losses": 30,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 7,
+        "account_value": 3235822.251228,
+        "unrealized_pnl": -469008.83064800006,
+        "top_coins": [
+          "HYPE",
+          "ETH",
+          "XPL"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "lofi.eth",
+        "address": "0x3c37DC9b5D4c60d404EC834987C106510d03442F",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 81.5,
+        "wins": 361,
+        "losses": 81,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 324353.054429,
+        "unrealized_pnl": -152.612495,
+        "top_coins": [
+          "MELANIA"
+        ],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Icy9999",
+        "address": "0x8434b7844Fd17fAD52f0aCEae50a834Cd4896577",
+        "categories": [
+          "Consistent Winner",
+          "Winning Streak"
+        ],
+        "win_rate": 71.5,
+        "wins": 196,
+        "losses": 70,
+        "total_profit": null,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 162236.290784,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "watch"
+      },
+      {
+        "name": "Elite Tamarin",
+        "address": "0x4F2b5981D89A1C60Bc73eA23edef2797447B3C17",
+        "categories": [
+          "Heavy Drawdown",
+          "Veteran",
+          "Winning Streak"
+        ],
+        "win_rate": 58.3,
+        "wins": 147,
+        "losses": 95,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 19,
+        "account_value": 386247.311472,
+        "unrealized_pnl": -88642.98528299999,
+        "top_coins": [
+          "HYPE",
+          "ADA",
+          "ZEC"
+        ],
+        "performance_tier": "watch"
+      }
+    ],
+    "avoid": [
+      {
+        "name": "Shadow Wallaby",
+        "address": "0x469E9A7f624b04C24f0E64EDF8d8a277e6bf58A5",
+        "categories": [
+          "Veteran",
+          "Heavy Drawdown",
+          "Winning Streak",
+          "Bad KOL"
+        ],
+        "win_rate": 70.7,
+        "wins": 281,
+        "losses": 115,
+        "total_profit": 434905.0,
+        "has_positions": true,
+        "num_positions": 6,
+        "account_value": 3225281.987493,
+        "unrealized_pnl": -2062471.6525449997,
+        "top_coins": [
+          "BTC",
+          "ETH",
+          "HYPE"
+        ],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "Ghost Duck",
+        "address": "0x1e82e222564293e3507c2966b27f587EE2570671",
+        "categories": [
+          "Veteran",
+          "Negative Pnl"
+        ],
+        "win_rate": 65.9,
+        "wins": 58,
+        "losses": 30,
+        "total_profit": -7728.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 51736.728092,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "Electric Pony",
+        "address": "0xC86DDE53FfA0CCBff8adb0529E0304b0dE1B0E8f",
+        "categories": [
+          "Negative Pnl",
+          "Veteran"
+        ],
+        "win_rate": 53.2,
+        "wins": 71,
+        "losses": 68,
+        "total_profit": -64634.0,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 30328.10613,
+        "unrealized_pnl": 2609.182719,
+        "top_coins": [
+          "FARTCOIN"
+        ],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "gaspedal",
+        "address": "0xFF9152cce6fbd30988B1aEf70DF6F086c99E2C55",
+        "categories": [
+          "Veteran",
+          "Negative Pnl"
+        ],
+        "win_rate": 76.0,
+        "wins": 349,
+        "losses": 123,
+        "total_profit": -976155.0,
+        "has_positions": true,
+        "num_positions": 4,
+        "account_value": 175915.342482,
+        "unrealized_pnl": -30603.643647999997,
+        "top_coins": [
+          "BTC",
+          "HYPE",
+          "AAVE"
+        ],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "Nova Raptor",
+        "address": "0x8f8D2D2565bFB10608a7Ce64b48E2Aea7875a344",
+        "categories": [
+          "Veteran",
+          "Negative Pnl"
+        ],
+        "win_rate": 70.0,
+        "wins": 182,
+        "losses": 81,
+        "total_profit": -1011512.0,
+        "has_positions": false,
+        "num_positions": 0,
+        "account_value": 209754.330015,
+        "unrealized_pnl": 0,
+        "top_coins": [],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "Blazing Stag",
+        "address": "0xEa6670EbdB4a388A8CFc16f6497Bf4f267B061EE",
+        "categories": [
+          "Whale",
+          "Negative Pnl"
+        ],
+        "win_rate": 60.0,
+        "wins": 6,
+        "losses": 4,
+        "total_profit": -2905039.0,
+        "has_positions": true,
+        "num_positions": 10,
+        "account_value": 4623616.432769,
+        "unrealized_pnl": -3268484.3091219994,
+        "top_coins": [
+          "ETH",
+          "HMSTR",
+          "XPL"
+        ],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "justanotherinterlude",
+        "address": "0xd8b07BC1bC3bAe553BCA5E94E99935dC12Df24Ff",
+        "categories": [
+          "Heavy Drawdown",
+          "Negative Pnl"
+        ],
+        "win_rate": 67.6,
+        "wins": 1300,
+        "losses": 593,
+        "total_profit": -2959778.0,
+        "has_positions": true,
+        "num_positions": 3,
+        "account_value": 424744.385614,
+        "unrealized_pnl": -8215.743849999999,
+        "top_coins": [
+          "BTC",
+          "ETH",
+          "SOL"
+        ],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "Ghost Koala",
+        "address": "0xCeeC48581B3145a575508719f45da07dc57fA7ce",
+        "categories": [
+          "Negative Pnl",
+          "Veteran",
+          "Heavy Drawdown"
+        ],
+        "win_rate": 52.7,
+        "wins": 68,
+        "losses": 60,
+        "total_profit": -3923073.0,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 1448409.250861,
+        "unrealized_pnl": -470288.07193000003,
+        "top_coins": [
+          "HYPE",
+          "SOL"
+        ],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "MachiBigBrother",
+        "address": "0x020cA66C30beC2c4Fe3861a94E4DB4A498A35872",
+        "categories": [
+          "Bad KOL",
+          "Negative Pnl"
+        ],
+        "win_rate": null,
+        "wins": null,
+        "losses": null,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 1,
+        "account_value": 465122.901748,
+        "unrealized_pnl": 69611.731672,
+        "top_coins": [
+          "ETH"
+        ],
+        "performance_tier": "avoid"
+      },
+      {
+        "name": "Sifu",
+        "address": "0xF967239DeBeF10DbC78E9Bbbb2d8A16B72a614eb",
+        "categories": [
+          "Bad KOL",
+          "Heavy Drawdown",
+          "Negative Pnl"
+        ],
+        "win_rate": 46.9,
+        "wins": 353,
+        "losses": 361,
+        "total_profit": null,
+        "has_positions": true,
+        "num_positions": 2,
+        "account_value": 3167478.70035,
+        "unrealized_pnl": -11912.02944,
+        "top_coins": [
+          "ETH",
+          "BTC"
+        ],
+        "performance_tier": "avoid"
+      }
+    ]
+  }
+}
